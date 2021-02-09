@@ -1,29 +1,33 @@
 package cocktail;
 
-import com.google.gson.GsonBuilder;
 import cocktail.dto.finish.CocktailFinish;
 import cocktail.dto.finish.IngredientFinish;
-import cocktail.dto.start.CocktailMidle;
+import cocktail.dto.midle.CocktailMidle;
+import cocktail.dto.midle.IngredientMidle;
 import cocktail.dto.start.CocktailStart;
-import cocktail.dto.start.Ingredient;
-import utils.SheetService;
+import cocktail.types.LineType;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import lk.utils.files.FileManager;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
-import cocktail.types.State;
+import utils.SheetService;
 
 import java.io.IOException;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.stream.Collectors;
 
-public class MainCocktails {
+public class Main {
+
+    private static final Gson gson = new GsonBuilder().setPrettyPrinting().excludeFieldsWithoutExposeAnnotation().create();
 
     public static void main(String[] args) throws IOException {
         Sheet sheet = new SheetService().get("./src/main/resources/cocktails.xlsx", 0);
         List<CocktailStart> cocktailsDto = getCocktailsDto(sheet);
         List<CocktailMidle> cocktailMidles = transform(cocktailsDto);
-        List<CocktailFinish> cocktailsFinish = cocktailMidles.stream().map(it->{
+        List<CocktailFinish> cocktailsFinish = cocktailMidles.stream().map(it -> {
             CocktailFinish cocktailFinish = new CocktailFinish();
             cocktailFinish.setNameRU(it.getName());
             cocktailFinish.setNameEN(it.getName());
@@ -38,7 +42,7 @@ public class MainCocktails {
             cocktailFinish.setGarnishRU(it.getGarnish());
             cocktailFinish.setGarnishEN(it.getGarnish());
 
-            List<IngredientFinish> ingredientFinishes = it.getIngredients().stream().map(itI->{
+            List<IngredientFinish> ingredientFinishes = it.getIngredientMidles().stream().map(itI -> {
                 IngredientFinish ingredientFinish = new IngredientFinish();
                 ingredientFinish.setSize(itI.getSize());
                 ingredientFinish.setOptional(itI.getOptional());
@@ -53,13 +57,13 @@ public class MainCocktails {
             return cocktailFinish;
         }).collect(Collectors.toList());
 
-        String json = new GsonBuilder().setPrettyPrinting().create().toJson(cocktailsFinish);
+        String json = gson.toJson(cocktailsFinish);
         new FileManager().writeString("./src/main/resources/cocktails.json", json);
     }
 
     public static List<CocktailStart> getCocktailsDto(Sheet sheet) {
         List<CocktailStart> cocktails = new ArrayList<>();
-        State state = State.NONE;
+        LineType lineType = LineType.NONE;
         CocktailStart cocktail = null;
         for (Row row : sheet) {
             for (Cell cell : row) {
@@ -67,29 +71,29 @@ public class MainCocktails {
                 if (text.length() != 0) {
                     switch (text) {
                         case "Название":
-                            state = State.Название;
+                            lineType = LineType.Название;
                             break;
                         case "Ассоциация":
-                            state = State.Ассоциация;
+                            lineType = LineType.Ассоциация;
                             break;
                         case "Тип":
-                            state = State.Тип;
+                            lineType = LineType.Тип;
                             break;
                         case "Ингредиенты":
-                            state = State.Ингредиенты;
+                            lineType = LineType.Ингредиенты;
                             break;
                         case "Способ приготовления":
-                            state = State.СпособПриготовления;
+                            lineType = LineType.СпособПриготовления;
                             break;
                         case "Комментарий":
-                            state = State.Комментарий;
+                            lineType = LineType.Комментарий;
                             break;
                         case "Украшение":
-                            state = State.Украшение;
+                            lineType = LineType.Украшение;
                             break;
                         default: {
-                            cocktail = setData(cocktail, text, state);
-                            if (state == State.Украшение) {
+                            cocktail = setData(cocktail, text, lineType);
+                            if (lineType == LineType.Украшение) {
                                 cocktails.add(cocktail);
                             }
                         }
@@ -100,8 +104,8 @@ public class MainCocktails {
         return cocktails;
     }
 
-    public static CocktailStart setData(CocktailStart cocktail, String text, State state) {
-        switch (state) {
+    public static CocktailStart setData(CocktailStart cocktail, String text, LineType lineType) {
+        switch (lineType) {
             case Название: {
                 cocktail = new CocktailStart();
                 cocktail.setName(text);
@@ -141,17 +145,17 @@ public class MainCocktails {
     public static List<CocktailMidle> transform(List<CocktailStart> cocktails) {
         return cocktails.stream().map(it -> {
             List<String> oldIngredients = it.getIngredients();
-            List<Ingredient> newIngredients = new ArrayList<>();
-            Ingredient ingredient = null;
+            List<IngredientMidle> newIngredientMidles = new ArrayList<>();
+            IngredientMidle ingredientMidle = null;
             for (int i = 1; i <= oldIngredients.size(); i++) {
                 if (i % 3 == 1) {
-                    ingredient = new Ingredient();
-                    ingredient.setSize(oldIngredients.get(i - 1));
+                    ingredientMidle = new IngredientMidle();
+                    ingredientMidle.setSize(oldIngredients.get(i - 1));
                 } else if (i % 3 == 2) {
-                    ingredient.setType(oldIngredients.get(i - 1));
+                    ingredientMidle.setType(oldIngredients.get(i - 1));
                 } else if (i % 3 == 0) {
-                    ingredient.setName(oldIngredients.get(i - 1));
-                    newIngredients.add(ingredient);
+                    ingredientMidle.setName(oldIngredients.get(i - 1));
+                    newIngredientMidles.add(ingredientMidle);
                 }
             }
 
@@ -159,7 +163,7 @@ public class MainCocktails {
             cocktailMidle1.setName(it.getName());
             cocktailMidle1.setAssociation(it.getAssociation());
             cocktailMidle1.setType(it.getType());
-            cocktailMidle1.setIngredients(newIngredients);
+            cocktailMidle1.setIngredientMidles(newIngredientMidles);
             cocktailMidle1.setMethod(it.getMethod());
             cocktailMidle1.setNote(it.getNote());
             cocktailMidle1.setGarnish(it.getGarnish());

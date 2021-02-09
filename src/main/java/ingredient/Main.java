@@ -1,5 +1,7 @@
 package ingredient;
 
+import cocktail.dto.finish.IngredientFinish;
+import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import utils.SheetService;
 import lk.utils.files.FileManager;
@@ -11,7 +13,9 @@ import java.io.IOException;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class MainIngredients {
+public class Main {
+
+    private static final Gson gson = new GsonBuilder().setPrettyPrinting().excludeFieldsWithoutExposeAnnotation().create();
 
     public static void main(String[] args) throws IOException {
         Sheet sheetIngredients = new SheetService().get("./src/main/resources/cocktails.xlsx", 4);
@@ -22,8 +26,8 @@ public class MainIngredients {
             }
         }
 
-        List<IngredientFile> ingredientFiles = allIngredients.stream().map(it->new IngredientFile(it,it)).collect(Collectors.toList());
-        String json = new GsonBuilder().setPrettyPrinting().create().toJson(ingredientFiles);
+        List<IngredientFinish> ingredientToJsons = allIngredients.stream().map(it->new IngredientFinish(it,it)).collect(Collectors.toList());
+        String json = gson.toJson(ingredientToJsons);
         System.out.println(json);
 
         new FileManager().writeString("./src/main/resources/ingredients.json", json);
