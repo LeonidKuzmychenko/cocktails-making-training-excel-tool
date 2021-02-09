@@ -1,0 +1,3932 @@
+[
+  {
+    "nameRU": "BELLINI",
+    "nameEN": "BELLINI",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "SPARKLING",
+    "typeEN": "SPARKLING",
+    "ingredients": [
+      {
+        "size": "100",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Prosecco",
+        "nameEN": "Prosecco"
+      },
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "White Peach Puree",
+        "nameEN": "White Peach Puree"
+      }
+    ],
+    "methodRU": "Pour peach puree into the mixing glass with ice, add the Prosecco wine. Stir gently and pour in a chilled flute glass.",
+    "methodEN": "Pour peach puree into the mixing glass with ice, add the Prosecco wine. Stir gently and pour in a chilled flute glass.",
+    "noteRU": "PUCCINI – Fresh Mandarin Orange Juice; \nROSSINI – Fresh Strawberry Puree; \nTINTORETTO – Fresh Pomegranate Juice.",
+    "noteEN": "PUCCINI – Fresh Mandarin Orange Juice; \nROSSINI – Fresh Strawberry Puree; \nTINTORETTO – Fresh Pomegranate Juice.",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "BLACK RUSSIAN",
+    "nameEN": "BLACK RUSSIAN",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "AFTER_DINNER",
+    "typeEN": "AFTER_DINNER",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Vodka",
+        "nameEN": "Vodka"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Coffee Liqueur",
+        "nameEN": "Coffee Liqueur"
+      }
+    ],
+    "methodRU": "Pour the ingredients into the old fashioned glass filled with ice cubes. Stir gently.",
+    "methodEN": "Pour the ingredients into the old fashioned glass filled with ice cubes. Stir gently.",
+    "noteRU": "WHITE RUSSIAN – Float fresh cream on the top and stir in slowly.",
+    "noteEN": "WHITE RUSSIAN – Float fresh cream on the top and stir in slowly.",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "BLOODY MARY",
+    "nameEN": "BLOODY MARY",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Vodka",
+        "nameEN": "Vodka"
+      },
+      {
+        "size": "90",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Tomato Juice",
+        "nameEN": "Tomato Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "2",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Worcestershire Sauce",
+        "nameEN": "Worcestershire Sauce"
+      },
+      {
+        "size": "1",
+        "typeRU": "NONE",
+        "typeEN": "NONE",
+        "nameRU": "Tabasco",
+        "nameEN": "Tabasco"
+      },
+      {
+        "size": "1",
+        "typeRU": "NONE",
+        "typeEN": "NONE",
+        "nameRU": "Pepper (optional)",
+        "nameEN": "Pepper (optional)"
+      },
+      {
+        "size": "1",
+        "typeRU": "NONE",
+        "typeEN": "NONE",
+        "nameRU": "Celery Salt (optional)",
+        "nameEN": "Celery Salt (optional)"
+      }
+    ],
+    "methodRU": "Stir gently all the ingredients in a mixing glass with ice, pour into rocks glass.",
+    "methodEN": "Stir gently all the ingredients in a mixing glass with ice, pour into rocks glass.",
+    "noteRU": "If requested served with ice, pour into highball glass.",
+    "noteEN": "If requested served with ice, pour into highball glass.",
+    "garnishRU": "Celery, Lemon Wedge (Optional)",
+    "garnishEN": "Celery, Lemon Wedge (Optional)"
+  },
+  {
+    "nameRU": "CAIPIRINHA",
+    "nameEN": "CAIPIRINHA",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cachaça",
+        "nameEN": "Cachaça"
+      },
+      {
+        "size": "1",
+        "typeRU": "piece",
+        "typeEN": "piece",
+        "nameRU": "Lime cut into small wedges",
+        "nameEN": "Lime cut into small wedges"
+      },
+      {
+        "size": "4",
+        "typeRU": "teaspoon",
+        "typeEN": "teaspoon",
+        "nameRU": "White Cane Sugar",
+        "nameEN": "White Cane Sugar"
+      }
+    ],
+    "methodRU": "Place lime and sugar into a double old fashioned glass and muddle gently. Fill the glass with cracked ice and add Cachaça. Stir gently to involve ingredients.",
+    "methodEN": "Place lime and sugar into a double old fashioned glass and muddle gently. Fill the glass with cracked ice and add Cachaça. Stir gently to involve ingredients.",
+    "noteRU": "CAIPIROSKA - Instead of Cachaça use Vodka;\nCAIPIRISSIMA - Instead of Cachaça use Rum.",
+    "noteEN": "CAIPIROSKA - Instead of Cachaça use Vodka;\nCAIPIRISSIMA - Instead of Cachaça use Rum.",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "CHAMPAGNE COCKTAIL",
+    "nameEN": "CHAMPAGNE COCKTAIL",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "SPARKLING",
+    "typeEN": "SPARKLING",
+    "ingredients": [
+      {
+        "size": "90",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Chilled Champagne",
+        "nameEN": "Chilled Champagne"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cognac",
+        "nameEN": "Cognac"
+      },
+      {
+        "size": "2",
+        "typeRU": "dashe",
+        "typeEN": "dashe",
+        "nameRU": "Angostura Bitter",
+        "nameEN": "Angostura Bitter"
+      },
+      {
+        "size": "few",
+        "typeRU": "drop",
+        "typeEN": "drop",
+        "nameRU": "Grand Marnier (optional)",
+        "nameEN": "Grand Marnier (optional)"
+      },
+      {
+        "size": "1",
+        "typeRU": "piece",
+        "typeEN": "piece",
+        "nameRU": "Sugar Cube",
+        "nameEN": "Sugar Cube"
+      }
+    ],
+    "methodRU": "Place the sugar cube with 2 dashes of biaers in a large Champagne glass, add the cognac. Pour gently chilled Champagne.",
+    "methodEN": "Place the sugar cube with 2 dashes of biaers in a large Champagne glass, add the cognac. Pour gently chilled Champagne.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with orange zest and maraschino cherry.",
+    "garnishEN": "Garnish with orange zest and maraschino cherry."
+  },
+  {
+    "nameRU": "COSMOPOLITAN",
+    "nameEN": "COSMOPOLITAN",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "40",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Vodka Citron",
+        "nameEN": "Vodka Citron"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cointreau",
+        "nameEN": "Cointreau"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cranberry Juice",
+        "nameEN": "Cranberry Juice"
+      }
+    ],
+    "methodRU": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.",
+    "methodEN": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with lemon twist.",
+    "garnishEN": "Garnish with lemon twist."
+  },
+  {
+    "nameRU": "CORPSE REVIVER #2",
+    "nameEN": "CORPSE REVIVER #2",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cointreau",
+        "nameEN": "Cointreau"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Lillet Blanc",
+        "nameEN": "Lillet Blanc"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "1",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Absinthe",
+        "nameEN": "Absinthe"
+      }
+    ],
+    "methodRU": "Pour all ingredients into shaker with ice. Shake well and strain in chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into shaker with ice. Shake well and strain in chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Orange zest.",
+    "garnishEN": "Orange zest."
+  },
+  {
+    "nameRU": "CUBA LIBRE",
+    "nameEN": "CUBA LIBRE",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "White Rum",
+        "nameEN": "White Rum"
+      },
+      {
+        "size": "120",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cola",
+        "nameEN": "Cola"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      }
+    ],
+    "methodRU": "Build all ingredients in a highball glass filled with ice.",
+    "methodEN": "Build all ingredients in a highball glass filled with ice.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with lime wedge",
+    "garnishEN": "Garnish with lime wedge"
+  },
+  {
+    "nameRU": "FRENCH 75",
+    "nameEN": "FRENCH 75",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "SPARKLING",
+    "typeEN": "SPARKLING",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sugar Syrup",
+        "nameEN": "Sugar Syrup"
+      },
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Champagne",
+        "nameEN": "Champagne"
+      }
+    ],
+    "methodRU": "Pour all the ingredients, except Champagne, into a shaker. Shake well and strain into a Champagne flute. Top up with Champagne. Stir gently",
+    "methodEN": "Pour all the ingredients, except Champagne, into a shaker. Shake well and strain into a Champagne flute. Top up with Champagne. Stir gently",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "FRENCH CONNECTION",
+    "nameEN": "FRENCH CONNECTION",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "AFTER_DINNER",
+    "typeEN": "AFTER_DINNER",
+    "ingredients": [
+      {
+        "size": "35",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cognac",
+        "nameEN": "Cognac"
+      },
+      {
+        "size": "35",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Amaretto",
+        "nameEN": "Amaretto"
+      }
+    ],
+    "methodRU": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+    "methodEN": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "GOLDEN DREAM",
+    "nameEN": "GOLDEN DREAM",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "AFTER_DINNER",
+    "typeEN": "AFTER_DINNER",
+    "ingredients": [
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Galliano",
+        "nameEN": "Galliano"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Triple Sec",
+        "nameEN": "Triple Sec"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Orange Juice",
+        "nameEN": "Fresh Orange Juice"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Cream",
+        "nameEN": "Fresh Cream"
+      }
+    ],
+    "methodRU": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "GRASSHOPPER",
+    "nameEN": "GRASSHOPPER",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "AFTER_DINNER",
+    "typeEN": "AFTER_DINNER",
+    "ingredients": [
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Crème de Cacao (White)",
+        "nameEN": "Crème de Cacao (White)"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Crème de Menthe (Green)",
+        "nameEN": "Crème de Menthe (Green)"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Cream",
+        "nameEN": "Fresh Cream"
+      }
+    ],
+    "methodRU": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A, optional mint leave.",
+    "garnishEN": "N/A, optional mint leave."
+  },
+  {
+    "nameRU": "HEMINGWAY SPECIAL",
+    "nameEN": "HEMINGWAY SPECIAL",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Rum",
+        "nameEN": "Rum"
+      },
+      {
+        "size": "40",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Grapefruit Juice",
+        "nameEN": "Grapefruit Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Maraschino",
+        "nameEN": "Maraschino"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime",
+        "nameEN": "Fresh Lime"
+      }
+    ],
+    "methodRU": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
+    "methodEN": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "HORSE\u0027S NECK",
+    "nameEN": "HORSE\u0027S NECK",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "40",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cognac",
+        "nameEN": "Cognac"
+      },
+      {
+        "size": "120",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Ginger Ale",
+        "nameEN": "Ginger Ale"
+      },
+      {
+        "size": "1",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Angostura Bitter (optional)",
+        "nameEN": "Angostura Bitter (optional)"
+      }
+    ],
+    "methodRU": "Pour Cognac and ginger ale directly into highball glass with ice cubes. Stir gently. If preferred, add dashes of Angostura Bitter.",
+    "methodEN": "Pour Cognac and ginger ale directly into highball glass with ice cubes. Stir gently. If preferred, add dashes of Angostura Bitter.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with rind of one lemon spiral.",
+    "garnishEN": "Garnish with rind of one lemon spiral."
+  },
+  {
+    "nameRU": "IRISH COFFEE",
+    "nameEN": "IRISH COFFEE",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "HOT_DRINK",
+    "typeEN": "HOT_DRINK",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Irish Whiskey",
+        "nameEN": "Irish Whiskey"
+      },
+      {
+        "size": "120",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Hot coffee",
+        "nameEN": "Hot coffee"
+      },
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Cream (Chilled)",
+        "nameEN": "Fresh Cream (Chilled)"
+      },
+      {
+        "size": "1",
+        "typeRU": "teaspoon",
+        "typeEN": "teaspoon",
+        "nameRU": "Sugar",
+        "nameEN": "Sugar"
+      }
+    ],
+    "methodRU": "Warm black coffee is poured into a pre-heated Irish coffee glass. Whiskey and at least one teaspoon of sugar is added and sUrred until dissolved. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee. The layer of cream will float on the coffee without mixing. Plain sugar can be replaced with sugar syrup",
+    "methodEN": "Warm black coffee is poured into a pre-heated Irish coffee glass. Whiskey and at least one teaspoon of sugar is added and sUrred until dissolved. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee. The layer of cream will float on the coffee without mixing. Plain sugar can be replaced with sugar syrup",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "KIR",
+    "nameEN": "KIR",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "BEFORE_DINNER",
+    "typeEN": "BEFORE_DINNER",
+    "ingredients": [
+      {
+        "size": "90",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Dry White Wine",
+        "nameEN": "Dry White Wine"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Crème de Cassis",
+        "nameEN": "Crème de Cassis"
+      }
+    ],
+    "methodRU": "Pour Crème de Cassis into glass, top up with white wine.",
+    "methodEN": "Pour Crème de Cassis into glass, top up with white wine.",
+    "noteRU": "KIR ROYAL - Use Champagne instead of white wine",
+    "noteEN": "KIR ROYAL - Use Champagne instead of white wine",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "LONG ISLAND ICED TEA",
+    "nameEN": "LONG ISLAND ICED TEA",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Vodka",
+        "nameEN": "Vodka"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Tequila",
+        "nameEN": "Tequila"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "White Rum",
+        "nameEN": "White Rum"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cointreau",
+        "nameEN": "Cointreau"
+      },
+      {
+        "size": "25",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Simple Syrup",
+        "nameEN": "Simple Syrup"
+      },
+      {
+        "size": "1",
+        "typeRU": "top_up",
+        "typeEN": "top_up",
+        "nameRU": "Cola",
+        "nameEN": "Cola"
+      }
+    ],
+    "methodRU": "Add all ingredients into highball glass filled with ice. Stir gently.",
+    "methodEN": "Add all ingredients into highball glass filled with ice. Stir gently.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Lemon Slice (OpUonal)",
+    "garnishEN": "Lemon Slice (OpUonal)"
+  },
+  {
+    "nameRU": "MAI-TAI",
+    "nameEN": "MAI-TAI",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Amber Jamaican Rum",
+        "nameEN": "Amber Jamaican Rum"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Martinique Molasses Rhum*",
+        "nameEN": "Martinique Molasses Rhum*"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Orange Curacao",
+        "nameEN": "Orange Curacao"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Orgeat Syrup (Almond)",
+        "nameEN": "Orgeat Syrup (Almond)"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "7,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Simple Syrup",
+        "nameEN": "Simple Syrup"
+      }
+    ],
+    "methodRU": "Add all ingredients into a shaker with ice. Shake and pour into a double rocks glass or an highball glass.\n* The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of \"rummy\" from molasses.",
+    "methodEN": "Add all ingredients into a shaker with ice. Shake and pour into a double rocks glass or an highball glass.\n* The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of \"rummy\" from molasses.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with pineapple spear, mint leaves and lime peel.",
+    "garnishEN": "Garnish with pineapple spear, mint leaves and lime peel."
+  },
+  {
+    "nameRU": "MARGARITA",
+    "nameEN": "MARGARITA",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Tequila 100% Agave",
+        "nameEN": "Tequila 100% Agave"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Triple Sec",
+        "nameEN": "Triple Sec"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Freshly Squeezed Lime Juice",
+        "nameEN": "Freshly Squeezed Lime Juice"
+      }
+    ],
+    "methodRU": "Add all ingredients into a shaker with ice. Shake and strain into a chilled cocktail glass",
+    "methodEN": "Add all ingredients into a shaker with ice. Shake and strain into a chilled cocktail glass",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Half salt rim (Optional)",
+    "garnishEN": "Half salt rim (Optional)"
+  },
+  {
+    "nameRU": "MIMOSA",
+    "nameEN": "MIMOSA",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "SPARKLING",
+    "typeEN": "SPARKLING",
+    "ingredients": [
+      {
+        "size": "75",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Orange Juice",
+        "nameEN": "Fresh Orange Juice"
+      },
+      {
+        "size": "75",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Prosecco",
+        "nameEN": "Prosecco"
+      }
+    ],
+    "methodRU": "Pour orange juice into flute glass and gently pour the sparkling wine. Stir gently.",
+    "methodEN": "Pour orange juice into flute glass and gently pour the sparkling wine. Stir gently.",
+    "noteRU": "Also known as Buck’s Fizz",
+    "noteEN": "Also known as Buck’s Fizz",
+    "garnishRU": "Garnish with orange twist (optional).",
+    "garnishEN": "Garnish with orange twist (optional)."
+  },
+  {
+    "nameRU": "MINT JULEP",
+    "nameEN": "MINT JULEP",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Bourbon Whiskey",
+        "nameEN": "Bourbon Whiskey"
+      },
+      {
+        "size": "4",
+        "typeRU": "sprigs",
+        "typeEN": "sprigs",
+        "nameRU": "Mint",
+        "nameEN": "Mint"
+      },
+      {
+        "size": "1",
+        "typeRU": "teaspoon",
+        "typeEN": "teaspoon",
+        "nameRU": "Powdered Sugar",
+        "nameEN": "Powdered Sugar"
+      },
+      {
+        "size": "2",
+        "typeRU": "teaspoon",
+        "typeEN": "teaspoon",
+        "nameRU": "Water",
+        "nameEN": "Water"
+      }
+    ],
+    "methodRU": "In Julep Stainless Steel Cup gently muddle the mint with sugar and water. Fill the glass with cracked ice, add the Bourbon and sUr well until the cup frosts.",
+    "methodEN": "In Julep Stainless Steel Cup gently muddle the mint with sugar and water. Fill the glass with cracked ice, add the Bourbon and sUr well until the cup frosts.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with a mint sprig.",
+    "garnishEN": "Garnish with a mint sprig."
+  },
+  {
+    "nameRU": "MOJITO",
+    "nameEN": "MOJITO",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "White Cuban Ron",
+        "nameEN": "White Cuban Ron"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "6",
+        "typeRU": "sprigs",
+        "typeEN": "sprigs",
+        "nameRU": "Mint",
+        "nameEN": "Mint"
+      },
+      {
+        "size": "2",
+        "typeRU": "teaspoon",
+        "typeEN": "teaspoon",
+        "nameRU": "White Cane Sugar",
+        "nameEN": "White Cane Sugar"
+      },
+      {
+        "size": "1",
+        "typeRU": "top_up",
+        "typeEN": "top_up",
+        "nameRU": "Soda Water",
+        "nameEN": "Soda Water"
+      }
+    ],
+    "methodRU": "Mix mint springs with sugar and lime juice. Add splash of soda water and fill the glass with ice. Pour the rum and top with soda water. Light stir to involve all ingredients.",
+    "methodEN": "Mix mint springs with sugar and lime juice. Add splash of soda water and fill the glass with ice. Pour the rum and top with soda water. Light stir to involve all ingredients.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with sprigs of mint and slice of lime",
+    "garnishEN": "Garnish with sprigs of mint and slice of lime"
+  },
+  {
+    "nameRU": "MOSCOW MULE",
+    "nameEN": "MOSCOW MULE",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Smirnoff Vodka",
+        "nameEN": "Smirnoff Vodka"
+      },
+      {
+        "size": "120",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Ginger Beer",
+        "nameEN": "Ginger Beer"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      }
+    ],
+    "methodRU": "In an Mule Cup or rocks glass, combine the vodka and ginger beer. Add lime juice and gently stir to involve all ingredients.",
+    "methodEN": "In an Mule Cup or rocks glass, combine the vodka and ginger beer. Add lime juice and gently stir to involve all ingredients.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with a lime slice",
+    "garnishEN": "Garnish with a lime slice"
+  },
+  {
+    "nameRU": "PINA COLADA",
+    "nameEN": "PINA COLADA",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "White Rum",
+        "nameEN": "White Rum"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Coconut Cream",
+        "nameEN": "Coconut Cream"
+      },
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Pineapple Juice",
+        "nameEN": "Fresh Pineapple Juice"
+      }
+    ],
+    "methodRU": "Blend all the ingredients with ice in a electric blender, pour into a large glass and serve with straws.",
+    "methodEN": "Blend all the ingredients with ice in a electric blender, pour into a large glass and serve with straws.",
+    "noteRU": "Historically a few drops of fresh lime juice was added to taste. 4 slices of fresh pineapple can be used instead of juice",
+    "noteEN": "Historically a few drops of fresh lime juice was added to taste. 4 slices of fresh pineapple can be used instead of juice",
+    "garnishRU": "Garnish with a slice of pineapple with a cocktail cherry",
+    "garnishEN": "Garnish with a slice of pineapple with a cocktail cherry"
+  },
+  {
+    "nameRU": "PISCO SOUR",
+    "nameEN": "PISCO SOUR",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Pisco",
+        "nameEN": "Pisco"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Simple Syrup",
+        "nameEN": "Simple Syrup"
+      },
+      {
+        "size": "1",
+        "typeRU": "piece",
+        "typeEN": "piece",
+        "nameRU": "Egg White",
+        "nameEN": "Egg White"
+      }
+    ],
+    "methodRU": "Add all ingredients into a shaker with ice. Shake and strain into a chilled goblet glass.",
+    "methodEN": "Add all ingredients into a shaker with ice. Shake and strain into a chilled goblet glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Few dashes of Amargo biaers on top as an aromatic garnish.",
+    "garnishEN": "Few dashes of Amargo biaers on top as an aromatic garnish."
+  },
+  {
+    "nameRU": "SEA BREEZE",
+    "nameEN": "SEA BREEZE",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "40",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Vodka",
+        "nameEN": "Vodka"
+      },
+      {
+        "size": "120",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cranberry Juice",
+        "nameEN": "Cranberry Juice"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Grapefruit Juice",
+        "nameEN": "Grapefruit Juice"
+      }
+    ],
+    "methodRU": "Build all ingredients in a highball glass filled with ice.",
+    "methodEN": "Build all ingredients in a highball glass filled with ice.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with an orange zest and cherry",
+    "garnishEN": "Garnish with an orange zest and cherry"
+  },
+  {
+    "nameRU": "SEX ON THE BEACH",
+    "nameEN": "SEX ON THE BEACH",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "40",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Vodka",
+        "nameEN": "Vodka"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Peach Schnapps",
+        "nameEN": "Peach Schnapps"
+      },
+      {
+        "size": "40",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Orange Juice",
+        "nameEN": "Fresh Orange Juice"
+      },
+      {
+        "size": "40",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cranberry Juice",
+        "nameEN": "Cranberry Juice"
+      }
+    ],
+    "methodRU": "Build all ingredients in a highball glass filled with ice.",
+    "methodEN": "Build all ingredients in a highball glass filled with ice.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with half orange slice.",
+    "garnishEN": "Garnish with half orange slice."
+  },
+  {
+    "nameRU": "SINGAPORE SLING",
+    "nameEN": "SINGAPORE SLING",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cherry Liqueur",
+        "nameEN": "Cherry Liqueur"
+      },
+      {
+        "size": "7,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cointreau",
+        "nameEN": "Cointreau"
+      },
+      {
+        "size": "7,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "DOM Bénédictine",
+        "nameEN": "DOM Bénédictine"
+      },
+      {
+        "size": "120",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Pineapple Juice",
+        "nameEN": "Fresh Pineapple Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Grenadine Syrup",
+        "nameEN": "Grenadine Syrup"
+      },
+      {
+        "size": "1",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Angostura Bitter",
+        "nameEN": "Angostura Bitter"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into Hurricane glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into Hurricane glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with pineapple and maraschino cherry",
+    "garnishEN": "Garnish with pineapple and maraschino cherry"
+  },
+  {
+    "nameRU": "TEQUILA SUNRISE",
+    "nameEN": "TEQUILA SUNRISE",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Tequila",
+        "nameEN": "Tequila"
+      },
+      {
+        "size": "90",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Orange Juice",
+        "nameEN": "Fresh Orange Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Grenadine Syrup",
+        "nameEN": "Grenadine Syrup"
+      }
+    ],
+    "methodRU": "Pour tequila and orange juice directly into highball glass filled with ice cubes. Add the grenadine syrup to create chromaUc effect (sunrise), do not stir.",
+    "methodEN": "Pour tequila and orange juice directly into highball glass filled with ice cubes. Add the grenadine syrup to create chromaUc effect (sunrise), do not stir.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with half orange slice or an orange zest",
+    "garnishEN": "Garnish with half orange slice or an orange zest"
+  },
+  {
+    "nameRU": "VESPER",
+    "nameEN": "VESPER",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "MARTINIS",
+    "typeEN": "MARTINIS",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Vodka",
+        "nameEN": "Vodka"
+      },
+      {
+        "size": "7,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Lillet Blanc",
+        "nameEN": "Lillet Blanc"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Lemon zest",
+    "garnishEN": "Lemon zest"
+  },
+  {
+    "nameRU": "ZOMBIE",
+    "nameEN": "ZOMBIE",
+    "associationRU": "CONTEMPORARY_CLASSICS",
+    "associationEN": "CONTEMPORARY_CLASSICS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Jamaican dark rum",
+        "nameEN": "Jamaican dark rum"
+      },
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gold Puerto Rican Rum",
+        "nameEN": "Gold Puerto Rican Rum"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Demerara Rum",
+        "nameEN": "Demerara Rum"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Falernum",
+        "nameEN": "Falernum"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Donn’s Mix*",
+        "nameEN": "Donn’s Mix*"
+      },
+      {
+        "size": "1",
+        "typeRU": "teaspoon",
+        "typeEN": "teaspoon",
+        "nameRU": "Grenadine Syrup",
+        "nameEN": "Grenadine Syrup"
+      },
+      {
+        "size": "1",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Angostura Bitter",
+        "nameEN": "Angostura Bitter"
+      },
+      {
+        "size": "6",
+        "typeRU": "drop",
+        "typeEN": "drop",
+        "nameRU": "Pernod",
+        "nameEN": "Pernod"
+      }
+    ],
+    "methodRU": "Add all ingredients into an electric blender with 170 grams of cracked ice. With pulse boaom blend for a few seconds. Serve in a tall tumbler glass.",
+    "methodEN": "Add all ingredients into an electric blender with 170 grams of cracked ice. With pulse boaom blend for a few seconds. Serve in a tall tumbler glass.",
+    "noteRU": "*Donn’s Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup",
+    "noteEN": "*Donn’s Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup",
+    "garnishRU": "Garnish with mint leaves.",
+    "garnishEN": "Garnish with mint leaves."
+  },
+  {
+    "nameRU": "ALEXANDER",
+    "nameEN": "ALEXANDER",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "AFTER_DINNER",
+    "typeEN": "AFTER_DINNER",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cognac",
+        "nameEN": "Cognac"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Crème de Cacao (Brown)",
+        "nameEN": "Crème de Cacao (Brown)"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Cream",
+        "nameEN": "Fresh Cream"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Sprinkle fresh ground nutmeg on top.",
+    "garnishEN": "Sprinkle fresh ground nutmeg on top."
+  },
+  {
+    "nameRU": "AMERICANO",
+    "nameEN": "AMERICANO",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "BEFORE_DINNER",
+    "typeEN": "BEFORE_DINNER",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Bitter Campari",
+        "nameEN": "Bitter Campari"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sweet Red Vermouth",
+        "nameEN": "Sweet Red Vermouth"
+      },
+      {
+        "size": "1",
+        "typeRU": "splash",
+        "typeEN": "splash",
+        "nameRU": "Soda Water",
+        "nameEN": "Soda Water"
+      }
+    ],
+    "methodRU": "Mix the ingredients directly in an old fashioned glass filled with ice cubes. Add a splash of Soda Water. Stir gently.",
+    "methodEN": "Mix the ingredients directly in an old fashioned glass filled with ice cubes. Add a splash of Soda Water. Stir gently.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with half orange slice and a lemon zest.",
+    "garnishEN": "Garnish with half orange slice and a lemon zest."
+  },
+  {
+    "nameRU": "ANGEL FACE",
+    "nameEN": "ANGEL FACE",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "MARTINIS",
+    "typeEN": "MARTINIS",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Apricot Brandy",
+        "nameEN": "Apricot Brandy"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Calvados",
+        "nameEN": "Calvados"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "AVIATION",
+    "nameEN": "AVIATION",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "MARTINIS",
+    "typeEN": "MARTINIS",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Maraschino Liqueur",
+        "nameEN": "Maraschino Liqueur"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "1",
+        "typeRU": "bar spoon",
+        "typeEN": "bar spoon",
+        "nameRU": "Crème de Violette",
+        "nameEN": "Crème de Violette"
+      }
+    ],
+    "methodRU": "Add all ingredients into a cocktail shaker. Shake with cracked ice and strain into a chilled cocktail glass.",
+    "methodEN": "Add all ingredients into a cocktail shaker. Shake with cracked ice and strain into a chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Optional Maraschino Cherry.",
+    "garnishEN": "Optional Maraschino Cherry."
+  },
+  {
+    "nameRU": "BETWEEN THE SHEETS",
+    "nameEN": "BETWEEN THE SHEETS",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "White Rum",
+        "nameEN": "White Rum"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cognac",
+        "nameEN": "Cognac"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Triple Sec",
+        "nameEN": "Triple Sec"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      }
+    ],
+    "methodRU": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+    "methodEN": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "BOULEVARDIER",
+    "nameEN": "BOULEVARDIER",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "BEFORE_DINNER",
+    "typeEN": "BEFORE_DINNER",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Bourbon or Rye Whiskey",
+        "nameEN": "Bourbon or Rye Whiskey"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Bitter Campari",
+        "nameEN": "Bitter Campari"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sweet Red Vermouth",
+        "nameEN": "Sweet Red Vermouth"
+      }
+    ],
+    "methodRU": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with a orange zest, optionally a lemon zest.",
+    "garnishEN": "Garnish with a orange zest, optionally a lemon zest."
+  },
+  {
+    "nameRU": "BRANDY CRUSTA",
+    "nameEN": "BRANDY CRUSTA",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "52,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Brandy",
+        "nameEN": "Brandy"
+      },
+      {
+        "size": "7,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Maraschino Luxardo",
+        "nameEN": "Maraschino Luxardo"
+      },
+      {
+        "size": "1",
+        "typeRU": "bar spoon",
+        "typeEN": "bar spoon",
+        "nameRU": "Curacao",
+        "nameEN": "Curacao"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "1",
+        "typeRU": "bar spoon",
+        "typeEN": "bar spoon",
+        "nameRU": "Simple Syrup",
+        "nameEN": "Simple Syrup"
+      },
+      {
+        "size": "2",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Aromatic Bitters",
+        "nameEN": "Aromatic Bitters"
+      }
+    ],
+    "methodRU": "Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass. ",
+    "methodEN": "Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass. ",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
+    "garnishEN": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass."
+  },
+  {
+    "nameRU": "CASINO",
+    "nameEN": "CASINO",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "40",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Old Tom Gin",
+        "nameEN": "Old Tom Gin"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Maraschino Liqueur",
+        "nameEN": "Maraschino Liqueur"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "2",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Orange Bitters",
+        "nameEN": "Orange Bitters"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled rocks glass with ice.",
+    "methodEN": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled rocks glass with ice.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with a lemon zest and a maraschino cherry.",
+    "garnishEN": "Garnish with a lemon zest and a maraschino cherry."
+  },
+  {
+    "nameRU": "CLOVER CLUB",
+    "nameEN": "CLOVER CLUB",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Raspberry Syrup",
+        "nameEN": "Raspberry Syrup"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Egg White",
+        "nameEN": "Egg White"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Fresh raspberries.",
+    "garnishEN": "Fresh raspberries."
+  },
+  {
+    "nameRU": "DAIQUIRI",
+    "nameEN": "DAIQUIRI",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "BEFORE_DINNER",
+    "typeEN": "BEFORE_DINNER",
+    "ingredients": [
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "White Cuban Ron",
+        "nameEN": "White Cuban Ron"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "2",
+        "typeRU": "bar spoon",
+        "typeEN": "bar spoon",
+        "nameRU": "Superfine Sugar",
+        "nameEN": "Superfine Sugar"
+      }
+    ],
+    "methodRU": "In a cocktail shaker add all ingredients. Stir well to dissolve the sugar. Add ice and shake. Strain into chilled cocktail glass.",
+    "methodEN": "In a cocktail shaker add all ingredients. Stir well to dissolve the sugar. Add ice and shake. Strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "DRY MARTINI",
+    "nameEN": "DRY MARTINI",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "MARTINIS",
+    "typeEN": "MARTINIS",
+    "ingredients": [
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Dry Vermouth",
+        "nameEN": "Dry Vermouth"
+      }
+    ],
+    "methodRU": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "methodEN": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Squeeze oil from lemon peel onto the drink, or garnish with a green olives if requested.",
+    "garnishEN": "Squeeze oil from lemon peel onto the drink, or garnish with a green olives if requested."
+  },
+  {
+    "nameRU": "GIN FIZZ",
+    "nameEN": "GIN FIZZ",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Simple Syrup",
+        "nameEN": "Simple Syrup"
+      },
+      {
+        "size": "1",
+        "typeRU": "splash",
+        "typeEN": "splash",
+        "nameRU": "Soda Water",
+        "nameEN": "Soda Water"
+      }
+    ],
+    "methodRU": "Shake all ingredients with ice except soda water. Pour into thin tall Tumbler glass , top with a splash soda water.",
+    "methodEN": "Shake all ingredients with ice except soda water. Pour into thin tall Tumbler glass , top with a splash soda water.",
+    "noteRU": "Serve without ice.",
+    "noteEN": "Serve without ice.",
+    "garnishRU": "Garnish with lemon slice, optional lemon zest.",
+    "garnishEN": "Garnish with lemon slice, optional lemon zest."
+  },
+  {
+    "nameRU": "HANKY PANKY",
+    "nameEN": "HANKY PANKY",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "MARTINIS",
+    "typeEN": "MARTINIS",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "London Dry Gin",
+        "nameEN": "London Dry Gin"
+      },
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sweet Red Vermouth",
+        "nameEN": "Sweet Red Vermouth"
+      },
+      {
+        "size": "7,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fernet Branca",
+        "nameEN": "Fernet Branca"
+      }
+    ],
+    "methodRU": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Orange zest.",
+    "garnishEN": "Orange zest."
+  },
+  {
+    "nameRU": "JOHN COLLINS ",
+    "nameEN": "JOHN COLLINS ",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Simple Syrup",
+        "nameEN": "Simple Syrup"
+      },
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Soda Water",
+        "nameEN": "Soda Water"
+      }
+    ],
+    "methodRU": "Pour all ingredients directly into highball filled with ice. Stir gently.",
+    "methodEN": "Pour all ingredients directly into highball filled with ice. Stir gently.",
+    "noteRU": "Use \u0027Old Tom\u0027 Gin for Tom Collins.",
+    "noteEN": "Use \u0027Old Tom\u0027 Gin for Tom Collins.",
+    "garnishRU": "Garnish with lemon slice and maraschino cherry.",
+    "garnishEN": "Garnish with lemon slice and maraschino cherry."
+  },
+  {
+    "nameRU": "LAST WORD",
+    "nameEN": "LAST WORD",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "BEFORE_DINNER",
+    "typeEN": "BEFORE_DINNER",
+    "ingredients": [
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Green Chartreuse",
+        "nameEN": "Green Chartreuse"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Maraschino Liqueur",
+        "nameEN": "Maraschino Liqueur"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      }
+    ],
+    "methodRU": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+    "methodEN": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "MANHATTAN",
+    "nameEN": "MANHATTAN",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "BEFORE_DINNER",
+    "typeEN": "BEFORE_DINNER",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Rye Whiskey",
+        "nameEN": "Rye Whiskey"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sweet Red Vermouth",
+        "nameEN": "Sweet Red Vermouth"
+      },
+      {
+        "size": "1",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Angostura Bitter",
+        "nameEN": "Angostura Bitter"
+      }
+    ],
+    "methodRU": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with cocktail cherry.",
+    "garnishEN": "Garnish with cocktail cherry."
+  },
+  {
+    "nameRU": "MARTINEZ",
+    "nameEN": "MARTINEZ",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "MARTINIS",
+    "typeEN": "MARTINIS",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "London Dry Gin",
+        "nameEN": "London Dry Gin"
+      },
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sweet Red Vermouth",
+        "nameEN": "Sweet Red Vermouth"
+      },
+      {
+        "size": "1",
+        "typeRU": "bar spoon",
+        "typeEN": "bar spoon",
+        "nameRU": "Maraschino Liqueur",
+        "nameEN": "Maraschino Liqueur"
+      },
+      {
+        "size": "2",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Orange Bitters",
+        "nameEN": "Orange Bitters"
+      }
+    ],
+    "methodRU": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Lemon zest.",
+    "garnishEN": "Lemon zest."
+  },
+  {
+    "nameRU": "MARY PICKFORD",
+    "nameEN": "MARY PICKFORD",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "White Rum",
+        "nameEN": "White Rum"
+      },
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Pineapple Juice",
+        "nameEN": "Fresh Pineapple Juice"
+      },
+      {
+        "size": "7,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Maraschino Liqueur",
+        "nameEN": "Maraschino Liqueur"
+      },
+      {
+        "size": "5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Grenadine Syrup",
+        "nameEN": "Grenadine Syrup"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "MONKEY GLAND",
+    "nameEN": "MONKEY GLAND",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Dry Gin",
+        "nameEN": "Dry Gin"
+      },
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Orange Juice",
+        "nameEN": "Fresh Orange Juice"
+      },
+      {
+        "size": "1",
+        "typeRU": "table spoon ",
+        "typeEN": "table spoon ",
+        "nameRU": "Absinthe",
+        "nameEN": "Absinthe"
+      },
+      {
+        "size": "1",
+        "typeRU": "table spoon ",
+        "typeEN": "table spoon ",
+        "nameRU": "Grenadine Syrup",
+        "nameEN": "Grenadine Syrup"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass",
+    "methodEN": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "NEGRONI",
+    "nameEN": "NEGRONI",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "BEFORE_DINNER",
+    "typeEN": "BEFORE_DINNER",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Bitter Campari",
+        "nameEN": "Bitter Campari"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sweet Red Vermouth",
+        "nameEN": "Sweet Red Vermouth"
+      }
+    ],
+    "methodRU": "Pour all ingredients directly into chilled old fashioned glass filled with ice, Stir gently. ",
+    "methodEN": "Pour all ingredients directly into chilled old fashioned glass filled with ice, Stir gently. ",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with half orange slice.",
+    "garnishEN": "Garnish with half orange slice."
+  },
+  {
+    "nameRU": "OLD FASHIONED",
+    "nameEN": "OLD FASHIONED",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "BEFORE_DINNER",
+    "typeEN": "BEFORE_DINNER",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Bourbon or Rye Whiskey",
+        "nameEN": "Bourbon or Rye Whiskey"
+      },
+      {
+        "size": "1",
+        "typeRU": "piece",
+        "typeEN": "piece",
+        "nameRU": "Sugar Cube",
+        "nameEN": "Sugar Cube"
+      },
+      {
+        "size": "few",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Angostura Bitter",
+        "nameEN": "Angostura Bitter"
+      },
+      {
+        "size": "few",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Plain Water",
+        "nameEN": "Plain Water"
+      }
+    ],
+    "methodRU": "Place sugar cube in old fashioned glass and saturate with biaer, add few dashes of plain water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Stir gently.",
+    "methodEN": "Place sugar cube in old fashioned glass and saturate with biaer, add few dashes of plain water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Stir gently.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with orange slice or zest, and a cocktail cherry.",
+    "garnishEN": "Garnish with orange slice or zest, and a cocktail cherry."
+  },
+  {
+    "nameRU": "PARADISE",
+    "nameEN": "PARADISE",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Apricot Brandy",
+        "nameEN": "Apricot Brandy"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Orange Juice",
+        "nameEN": "Fresh Orange Juice"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "PLANTERS PUNCH",
+    "nameEN": "PLANTERS PUNCH",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Jamaican Rum",
+        "nameEN": "Jamaican Rum"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sugar Cane Juice",
+        "nameEN": "Sugar Cane Juice"
+      }
+    ],
+    "methodRU": "Pour all ingredients directly in a small tumbler or a typical terracoaa glass.",
+    "methodEN": "Pour all ingredients directly in a small tumbler or a typical terracoaa glass.",
+    "noteRU": "Add dilution up to taste, it can be given by water, ice or fresh juices.",
+    "noteEN": "Add dilution up to taste, it can be given by water, ice or fresh juices.",
+    "garnishRU": "Garnish with orange zest",
+    "garnishEN": "Garnish with orange zest"
+  },
+  {
+    "nameRU": "PORTO FLIP",
+    "nameEN": "PORTO FLIP",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "AFTER_DINNER",
+    "typeEN": "AFTER_DINNER",
+    "ingredients": [
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Brandy",
+        "nameEN": "Brandy"
+      },
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Red Tawny Port Wine",
+        "nameEN": "Red Tawny Port Wine"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Egg Yolk",
+        "nameEN": "Egg Yolk"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Sprinkle with fresh ground nutmeg.",
+    "garnishEN": "Sprinkle with fresh ground nutmeg."
+  },
+  {
+    "nameRU": "RAMOS FIZZ",
+    "nameEN": "RAMOS FIZZ",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sugar Syrup",
+        "nameEN": "Sugar Syrup"
+      },
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cream",
+        "nameEN": "Cream"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Egg White",
+        "nameEN": "Egg White"
+      },
+      {
+        "size": "3",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Orange Flower Water",
+        "nameEN": "Orange Flower Water"
+      },
+      {
+        "size": "2",
+        "typeRU": "drop",
+        "typeEN": "drop",
+        "nameRU": "Vanilla Extract",
+        "nameEN": "Vanilla Extract"
+      },
+      {
+        "size": "1",
+        "typeRU": "top_up",
+        "typeEN": "top_up",
+        "nameRU": "Soda Water",
+        "nameEN": "Soda Water"
+      }
+    ],
+    "methodRU": "Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker and hard shake without ice for one minute. Strain into a highball glass, top up with soda.",
+    "methodEN": "Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker and hard shake without ice for one minute. Strain into a highball glass, top up with soda.",
+    "noteRU": "The drink was invented by Henry Ramos in 1888, at his bar Meyer’s Table d’Hôtel Internationale in New Orleans. The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another.",
+    "noteEN": "The drink was invented by Henry Ramos in 1888, at his bar Meyer’s Table d’Hôtel Internationale in New Orleans. The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another.",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "RUSTY NAIL ",
+    "nameEN": "RUSTY NAIL ",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "AFTER_DINNER",
+    "typeEN": "AFTER_DINNER",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Scotch Whisky",
+        "nameEN": "Scotch Whisky"
+      },
+      {
+        "size": "25",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Drambuie",
+        "nameEN": "Drambuie"
+      }
+    ],
+    "methodRU": "Pour all ingredients directly into an old fashioned glass filled with ice. SUr gently.",
+    "methodEN": "Pour all ingredients directly into an old fashioned glass filled with ice. SUr gently.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with lemon zest.",
+    "garnishEN": "Garnish with lemon zest."
+  },
+  {
+    "nameRU": "SAZERAC",
+    "nameEN": "SAZERAC",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "AFTER_DINNER",
+    "typeEN": "AFTER_DINNER",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cognac",
+        "nameEN": "Cognac"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Absinthe",
+        "nameEN": "Absinthe"
+      },
+      {
+        "size": "1",
+        "typeRU": "piece",
+        "typeEN": "piece",
+        "nameRU": "Sugar Cube",
+        "nameEN": "Sugar Cube"
+      },
+      {
+        "size": "2",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Peychaud\u0027s Bitters",
+        "nameEN": "Peychaud\u0027s Bitters"
+      }
+    ],
+    "methodRU": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice in a mixing glass . Discard the ice and any excess absinthe from the prepared glass, strain the mixed drink into the glass",
+    "methodEN": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice in a mixing glass . Discard the ice and any excess absinthe from the prepared glass, strain the mixed drink into the glass",
+    "noteRU": "The original recipe changed after the American Civil War, Rye Whiskey substituted Cognac as it became hard to obtain",
+    "noteEN": "The original recipe changed after the American Civil War, Rye Whiskey substituted Cognac as it became hard to obtain",
+    "garnishRU": "Garnish with lemon zest.",
+    "garnishEN": "Garnish with lemon zest."
+  },
+  {
+    "nameRU": "SIDECAR",
+    "nameEN": "SIDECAR",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cognac",
+        "nameEN": "Cognac"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Triple Sec",
+        "nameEN": "Triple Sec"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "STINGER",
+    "nameEN": "STINGER",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "AFTER_DINNER",
+    "typeEN": "AFTER_DINNER",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cognac",
+        "nameEN": "Cognac"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "White Crème de Menthe",
+        "nameEN": "White Crème de Menthe"
+      }
+    ],
+    "methodRU": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "methodEN": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Optional mint leave",
+    "garnishEN": "Optional mint leave"
+  },
+  {
+    "nameRU": "TUXEDO",
+    "nameEN": "TUXEDO",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "MARTINIS",
+    "typeEN": "MARTINIS",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Old Tom Gin",
+        "nameEN": "Old Tom Gin"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Dry Vermouth",
+        "nameEN": "Dry Vermouth"
+      },
+      {
+        "size": "1/2",
+        "typeRU": "bar spoon",
+        "typeEN": "bar spoon",
+        "nameRU": "Maraschino Liqueur",
+        "nameEN": "Maraschino Liqueur"
+      },
+      {
+        "size": "1/4",
+        "typeRU": "bar spoon",
+        "typeEN": "bar spoon",
+        "nameRU": "Absinthe",
+        "nameEN": "Absinthe"
+      },
+      {
+        "size": "3",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Orange Bitters",
+        "nameEN": "Orange Bitters"
+      }
+    ],
+    "methodRU": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "methodEN": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with cherry and lemon zest",
+    "garnishEN": "Garnish with cherry and lemon zest"
+  },
+  {
+    "nameRU": "VIEUX CARRÉ ",
+    "nameEN": "VIEUX CARRÉ ",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "AFTER_DINNER",
+    "typeEN": "AFTER_DINNER",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Rye Whiskey",
+        "nameEN": "Rye Whiskey"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cognac",
+        "nameEN": "Cognac"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sweet Vermouth",
+        "nameEN": "Sweet Vermouth"
+      },
+      {
+        "size": "1",
+        "typeRU": "bar spoon",
+        "typeEN": "bar spoon",
+        "nameRU": "Bénédictine",
+        "nameEN": "Bénédictine"
+      },
+      {
+        "size": "2",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Peychaud\u0027s Bitters",
+        "nameEN": "Peychaud\u0027s Bitters"
+      }
+    ],
+    "methodRU": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with orange zest and maraschino cherry.",
+    "garnishEN": "Garnish with orange zest and maraschino cherry."
+  },
+  {
+    "nameRU": "WHISKEY SOUR ",
+    "nameEN": "WHISKEY SOUR ",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "BEFORE_DINNER",
+    "typeEN": "BEFORE_DINNER",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Bourbon Whiskey",
+        "nameEN": "Bourbon Whiskey"
+      },
+      {
+        "size": "25",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sugar Syrup",
+        "nameEN": "Sugar Syrup"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Egg White (Optional)",
+        "nameEN": "Egg White (Optional)"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker filled with ice. Shake well. Strain into cobbler glass. If served \"On the rocks\", strain ingredients into old fashioned glass filled with ice.",
+    "methodEN": "Pour all ingredients into cocktail shaker filled with ice. Shake well. Strain into cobbler glass. If served \"On the rocks\", strain ingredients into old fashioned glass filled with ice.",
+    "noteRU": "If egg white is used shake little harder to release and incorporate the foam from the egg white.",
+    "noteEN": "If egg white is used shake little harder to release and incorporate the foam from the egg white.",
+    "garnishRU": "Garnish with half orange slice and maraschino cherry, optionally use orange zest.",
+    "garnishEN": "Garnish with half orange slice and maraschino cherry, optionally use orange zest."
+  },
+  {
+    "nameRU": "WHITE LADY",
+    "nameEN": "WHITE LADY",
+    "associationRU": "THE_UNFORGETTABLES",
+    "associationEN": "THE_UNFORGETTABLES",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "40",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Triple Sec",
+        "nameEN": "Triple Sec"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "BARRACUDA",
+    "nameEN": "BARRACUDA",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "SPARKLING",
+    "typeEN": "SPARKLING",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gold Rum",
+        "nameEN": "Gold Rum"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Galliano",
+        "nameEN": "Galliano"
+      },
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Pineapple Juice",
+        "nameEN": "Fresh Pineapple Juice"
+      },
+      {
+        "size": "1",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "1",
+        "typeRU": "top_up",
+        "typeEN": "top_up",
+        "nameRU": "Prosecco",
+        "nameEN": "Prosecco"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker except the Prosecco, shake well with ice, strain into chilled highball glass filled with ice and top up with Prosecco.",
+    "methodEN": "Pour all ingredients into cocktail shaker except the Prosecco, shake well with ice, strain into chilled highball glass filled with ice and top up with Prosecco.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Pineapple and Cherry, optional mint spring for additional aroma.",
+    "garnishEN": "Pineapple and Cherry, optional mint spring for additional aroma."
+  },
+  {
+    "nameRU": "BRAMBLE",
+    "nameEN": "BRAMBLE",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "25",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "12,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sugar Syrup",
+        "nameEN": "Sugar Syrup"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Crème de Mûre",
+        "nameEN": "Crème de Mûre"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker except the Crème de Mûre, shake well with ice, strain into chilled old fashioned glass filled with crushed ice, then pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
+    "methodEN": "Pour all ingredients into cocktail shaker except the Crème de Mûre, shake well with ice, strain into chilled old fashioned glass filled with crushed ice, then pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish opUonally with a lemon slice and blackberries.",
+    "garnishEN": "Garnish opUonally with a lemon slice and blackberries."
+  },
+  {
+    "nameRU": "BEE’S KNEES ",
+    "nameEN": "BEE’S KNEES ",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "52,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Dry Gin",
+        "nameEN": "Dry Gin"
+      },
+      {
+        "size": "2",
+        "typeRU": "teaspoon",
+        "typeEN": "teaspoon",
+        "nameRU": "Honey Syrup",
+        "nameEN": "Honey Syrup"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Orange Juice",
+        "nameEN": "Fresh Orange Juice"
+      }
+    ],
+    "methodRU": "Stir honey with lemon and orange juices unUl it dissolves, add gin and shake with ice. Strain into a chilled cocktail glass.",
+    "methodEN": "Stir honey with lemon and orange juices unUl it dissolves, add gin and shake with ice. Strain into a chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Optionally garnish with a lemon or orange zest",
+    "garnishEN": "Optionally garnish with a lemon or orange zest"
+  },
+  {
+    "nameRU": "CACHANCHARA",
+    "nameEN": "CACHANCHARA",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cuban Aguardiente",
+        "nameEN": "Cuban Aguardiente"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Honey",
+        "nameEN": "Honey"
+      },
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Water",
+        "nameEN": "Water"
+      }
+    ],
+    "methodRU": "Mix honey with water and lime juice and spread the mixture on the boaom and sides of the glass. Add cracked ice, and then the rum. End by energeUcally sUrring from boaom to top.",
+    "methodEN": "Mix honey with water and lime juice and spread the mixture on the boaom and sides of the glass. Add cracked ice, and then the rum. End by energeUcally sUrring from boaom to top.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Lime wedge.",
+    "garnishEN": "Lime wedge."
+  },
+  {
+    "nameRU": "DARK ‘N’ STORMY",
+    "nameEN": "DARK ‘N’ STORMY",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Goslings Rum",
+        "nameEN": "Goslings Rum"
+      },
+      {
+        "size": "100",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Ginger Beer",
+        "nameEN": "Ginger Beer"
+      }
+    ],
+    "methodRU": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
+    "methodEN": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with a lime wedge or slice.",
+    "garnishEN": "Garnish with a lime wedge or slice."
+  },
+  {
+    "nameRU": "ESPRESSO MARTINI",
+    "nameEN": "ESPRESSO MARTINI",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "AFTER_DINNER",
+    "typeEN": "AFTER_DINNER",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Vodka",
+        "nameEN": "Vodka"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Kahlúa",
+        "nameEN": "Kahlúa"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sugar Syrup",
+        "nameEN": "Sugar Syrup"
+      },
+      {
+        "size": "1",
+        "typeRU": "piece",
+        "typeEN": "piece",
+        "nameRU": "Strong Espresso",
+        "nameEN": "Strong Espresso"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "FERNANDITO",
+    "nameEN": "FERNANDITO",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fernet Branca",
+        "nameEN": "Fernet Branca"
+      },
+      {
+        "size": "1",
+        "typeRU": "top_up",
+        "typeEN": "top_up",
+        "nameRU": "Cola",
+        "nameEN": "Cola"
+      }
+    ],
+    "methodRU": "Pour the Fernet Branca into a double old fashioned glass with ice, fill the glass up with Cola. Gently stir.",
+    "methodEN": "Pour the Fernet Branca into a double old fashioned glass with ice, fill the glass up with Cola. Gently stir.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "FRENCH MARTINI",
+    "nameEN": "FRENCH MARTINI",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Vodka",
+        "nameEN": "Vodka"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Raspberry Liqueur",
+        "nameEN": "Raspberry Liqueur"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Pineapple Juice",
+        "nameEN": "Fresh Pineapple Juice"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Squeeze oil from lemon peel onto the drink.",
+    "garnishEN": "Squeeze oil from lemon peel onto the drink."
+  },
+  {
+    "nameRU": "ILLEGAL",
+    "nameEN": "ILLEGAL",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Espadin Mezcal",
+        "nameEN": "Espadin Mezcal"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Jamaica Overproof White Rum",
+        "nameEN": "Jamaica Overproof White Rum"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Falernum",
+        "nameEN": "Falernum"
+      },
+      {
+        "size": "1",
+        "typeRU": "bar spoon",
+        "typeEN": "bar spoon",
+        "nameRU": "Maraschino Luxardo",
+        "nameEN": "Maraschino Luxardo"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Simple Syrup",
+        "nameEN": "Simple Syrup"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Egg White (Optional)",
+        "nameEN": "Egg White (Optional)"
+      }
+    ],
+    "methodRU": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled cocktail glass, or \"on the rocks\" in a tradiUonal clay or terracoaa mug.",
+    "methodEN": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled cocktail glass, or \"on the rocks\" in a tradiUonal clay or terracoaa mug.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "LEMON DROP MARTINI",
+    "nameEN": "LEMON DROP MARTINI",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Vodka Citron",
+        "nameEN": "Vodka Citron"
+      },
+      {
+        "size": "20",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Triple Sec",
+        "nameEN": "Triple Sec"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with sugar rim arround the glass",
+    "garnishEN": "Garnish with sugar rim arround the glass"
+  },
+  {
+    "nameRU": "NAKED AND FAMOUS",
+    "nameEN": "NAKED AND FAMOUS",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Mezcal",
+        "nameEN": "Mezcal"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Yellow Chartreuse",
+        "nameEN": "Yellow Chartreuse"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Aperol",
+        "nameEN": "Aperol"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "NEW YORK SOUR",
+    "nameEN": "NEW YORK SOUR",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Rye Whiskey or Bourbon",
+        "nameEN": "Rye Whiskey or Bourbon"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Simple Syrup",
+        "nameEN": "Simple Syrup"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Egg White",
+        "nameEN": "Egg White"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Red wine (Shiraz or Malbech)",
+        "nameEN": "Red wine (Shiraz or Malbech)"
+      }
+    ],
+    "methodRU": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled rocks glass filled with ice. Float the wine on top.",
+    "methodEN": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled rocks glass filled with ice. Float the wine on top.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with lemon or orange zest with cherry.",
+    "garnishEN": "Garnish with lemon or orange zest with cherry."
+  },
+  {
+    "nameRU": "OLD CUBAN",
+    "nameEN": "OLD CUBAN",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "6/8",
+        "typeRU": "leaves",
+        "typeEN": "leaves",
+        "nameRU": "Mint",
+        "nameEN": "Mint"
+      },
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Aged Rum",
+        "nameEN": "Aged Rum"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Simple Syrup",
+        "nameEN": "Simple Syrup"
+      },
+      {
+        "size": "2",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Angostura Bitter",
+        "nameEN": "Angostura Bitter"
+      },
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Brut Champagne or Prosecco",
+        "nameEN": "Brut Champagne or Prosecco"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass. Top up with the sparkling wine",
+    "methodEN": "Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass. Top up with the sparkling wine",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with mint springs.",
+    "garnishEN": "Garnish with mint springs."
+  },
+  {
+    "nameRU": "PALOMA",
+    "nameEN": "PALOMA",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Agave Tequila",
+        "nameEN": "Agave Tequila"
+      },
+      {
+        "size": "5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime",
+        "nameEN": "Fresh Lime"
+      },
+      {
+        "size": "1",
+        "typeRU": "pinch",
+        "typeEN": "pinch",
+        "nameRU": "Salt",
+        "nameEN": "Salt"
+      },
+      {
+        "size": "100",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Pink Grapefruit Soda",
+        "nameEN": "Pink Grapefruit Soda"
+      }
+    ],
+    "methodRU": "Poor the tequila into a highball glass, squeeze the lime juice. Add ice and salt, fill up pink grapefruit soda. Stir gently.",
+    "methodEN": "Poor the tequila into a highball glass, squeeze the lime juice. Add ice and salt, fill up pink grapefruit soda. Stir gently.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with a slice of lime",
+    "garnishEN": "Garnish with a slice of lime"
+  },
+  {
+    "nameRU": "PAPER PLANE",
+    "nameEN": "PAPER PLANE",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "BEFORE_DINNER",
+    "typeEN": "BEFORE_DINNER",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Bourbon Whiskey",
+        "nameEN": "Bourbon Whiskey"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Amaro Nonino",
+        "nameEN": "Amaro Nonino"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Aperol",
+        "nameEN": "Aperol"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "PENICILLIN",
+    "nameEN": "PENICILLIN",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Blended Scotch Whisky",
+        "nameEN": "Blended Scotch Whisky"
+      },
+      {
+        "size": "7,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Lagavulin 16y Whisky",
+        "nameEN": "Lagavulin 16y Whisky"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Honey Syrup",
+        "nameEN": "Honey Syrup"
+      },
+      {
+        "size": "2/4-3/4",
+        "typeRU": "slice",
+        "typeEN": "slice",
+        "nameRU": "Fresh Ginger",
+        "nameEN": "Fresh Ginger"
+      }
+    ],
+    "methodRU": "Muddle fresh ginger in a shaker and add the remaining ingredients, except for the Islay single malt whiskey. Fill the shaker with ice and shake. Double-strain into a chilled old fashioned glass with ice. Float the single malt whisky on top.",
+    "methodEN": "Muddle fresh ginger in a shaker and add the remaining ingredients, except for the Islay single malt whiskey. Fill the shaker with ice and shake. Double-strain into a chilled old fashioned glass with ice. Float the single malt whisky on top.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with a candied ginger.",
+    "garnishEN": "Garnish with a candied ginger."
+  },
+  {
+    "nameRU": "RUSSIAN SPRING PUNCH",
+    "nameEN": "RUSSIAN SPRING PUNCH",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "SPARKLING",
+    "typeEN": "SPARKLING",
+    "ingredients": [
+      {
+        "size": "25",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Vodka",
+        "nameEN": "Vodka"
+      },
+      {
+        "size": "25",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Crème de Cassis",
+        "nameEN": "Crème de Cassis"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sugar Syrup",
+        "nameEN": "Sugar Syrup"
+      },
+      {
+        "size": "1",
+        "typeRU": "top_up",
+        "typeEN": "top_up",
+        "nameRU": "Sparkling wine",
+        "nameEN": "Sparkling wine"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker except the sparkling wine, shake well with ice, strain into chilled tall tumbler glass filled with ice and top up with sparkling wine.",
+    "methodEN": "Pour all ingredients into cocktail shaker except the sparkling wine, shake well with ice, strain into chilled tall tumbler glass filled with ice and top up with sparkling wine.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with blackberries and optionally a lemon slice as well.",
+    "garnishEN": "Garnish with blackberries and optionally a lemon slice as well."
+  },
+  {
+    "nameRU": "SOUTHSIDE",
+    "nameEN": "SOUTHSIDE",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "London Dry Gin",
+        "nameEN": "London Dry Gin"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Simple Syrup",
+        "nameEN": "Simple Syrup"
+      },
+      {
+        "size": "5/6",
+        "typeRU": "leaves",
+        "typeEN": "leaves",
+        "nameRU": "Mint",
+        "nameEN": "Mint"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Egg White (Optional)",
+        "nameEN": "Egg White (Optional)"
+      }
+    ],
+    "methodRU": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
+    "noteRU": "If egg white is used shake vigorously",
+    "noteEN": "If egg white is used shake vigorously",
+    "garnishRU": "Garnish with mint springs.",
+    "garnishEN": "Garnish with mint springs."
+  },
+  {
+    "nameRU": "SPICY FIFTY",
+    "nameEN": "SPICY FIFTY",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Vodka Vanilla",
+        "nameEN": "Vodka Vanilla"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Elderflower Cordial",
+        "nameEN": "Elderflower Cordial"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "10",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Monin Honey Syrup",
+        "nameEN": "Monin Honey Syrup"
+      },
+      {
+        "size": "2",
+        "typeRU": "slice",
+        "typeEN": "slice",
+        "nameRU": "Red Chili Pepper",
+        "nameEN": "Red Chili Pepper"
+      }
+    ],
+    "methodRU": "Pour all ingredients into a cocktail shaker, shake well with ice, double -strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into a cocktail shaker, shake well with ice, double -strain into chilled cocktail glass.",
+    "garnishRU": "Garnish with a red chili pepper",
+    "garnishEN": "Garnish with a red chili pepper"
+  },
+  {
+    "nameRU": "SPRITZ",
+    "nameEN": "SPRITZ",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "90",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Prosecco",
+        "nameEN": "Prosecco"
+      },
+      {
+        "size": "60",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Aperol",
+        "nameEN": "Aperol"
+      },
+      {
+        "size": "1",
+        "typeRU": "splash",
+        "typeEN": "splash",
+        "nameRU": "Soda Water",
+        "nameEN": "Soda Water"
+      }
+    ],
+    "methodRU": "Build all ingredients into a wine glass filled with ice. Stir gently.",
+    "methodEN": "Build all ingredients into a wine glass filled with ice. Stir gently.",
+    "noteRU": "There are other versions of the Spritz that use Campari, Cynar or Select instead of Aperol.",
+    "noteEN": "There are other versions of the Spritz that use Campari, Cynar or Select instead of Aperol.",
+    "garnishRU": "Garnish with a slice of orange.",
+    "garnishEN": "Garnish with a slice of orange."
+  },
+  {
+    "nameRU": "SUFFERING BASTARD",
+    "nameEN": "SUFFERING BASTARD",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "LONG_DRINK",
+    "typeEN": "LONG_DRINK",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Cognac or Brandy",
+        "nameEN": "Cognac or Brandy"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Gin",
+        "nameEN": "Gin"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "2",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Angostura Bitter",
+        "nameEN": "Angostura Bitter"
+      },
+      {
+        "size": "1",
+        "typeRU": "top_up",
+        "typeEN": "top_up",
+        "nameRU": "Ginger Beer",
+        "nameEN": "Ginger Beer"
+      }
+    ],
+    "methodRU": "Pour all ingredients into cocktail shaker except the ginger beer, shake well with ice, Pour unstrained into a Collins glass or in the original S. Bastard mug and top up with ginger beer.",
+    "methodEN": "Pour all ingredients into cocktail shaker except the ginger beer, shake well with ice, Pour unstrained into a Collins glass or in the original S. Bastard mug and top up with ginger beer.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with mint spring and optionally an orange slice as well.",
+    "garnishEN": "Garnish with mint spring and optionally an orange slice as well."
+  },
+  {
+    "nameRU": "TIPPERARY",
+    "nameEN": "TIPPERARY",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "50",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Irish Whiskey",
+        "nameEN": "Irish Whiskey"
+      },
+      {
+        "size": "25",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Sweet Red Vermouth",
+        "nameEN": "Sweet Red Vermouth"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Green Chartreuse",
+        "nameEN": "Green Chartreuse"
+      },
+      {
+        "size": "2",
+        "typeRU": "dash",
+        "typeEN": "dash",
+        "nameRU": "Angostura Bitter",
+        "nameEN": "Angostura Bitter"
+      }
+    ],
+    "methodRU": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "methodEN": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with a slice of orange",
+    "garnishEN": "Garnish with a slice of orange"
+  },
+  {
+    "nameRU": "TOMMY’S MARGARITA",
+    "nameEN": "TOMMY’S MARGARITA",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Tequila 100% Agave",
+        "nameEN": "Tequila 100% Agave"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      },
+      {
+        "size": "2",
+        "typeRU": "bar spoon",
+        "typeEN": "bar spoon",
+        "nameRU": "Agave Nectar",
+        "nameEN": "Agave Nectar"
+      }
+    ],
+    "methodRU": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled rocks glass filled with ice.",
+    "methodEN": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled rocks glass filled with ice.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "Garnish with a lime slice.",
+    "garnishEN": "Garnish with a lime slice."
+  },
+  {
+    "nameRU": "TRINIDAD SOUR",
+    "nameEN": "TRINIDAD SOUR",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Angostura Bitter",
+        "nameEN": "Angostura Bitter"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Orgeat Syrup",
+        "nameEN": "Orgeat Syrup"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Rye Whiskey",
+        "nameEN": "Rye Whiskey"
+      }
+    ],
+    "methodRU": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "YELLOW BIRD",
+    "nameEN": "YELLOW BIRD",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "White Rum",
+        "nameEN": "White Rum"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Galliano",
+        "nameEN": "Galliano"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Triple Sec",
+        "nameEN": "Triple Sec"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lime Juice",
+        "nameEN": "Fresh Lime Juice"
+      }
+    ],
+    "methodRU": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "methodEN": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "noteRU": "-",
+    "noteEN": "-",
+    "garnishRU": "N/A",
+    "garnishEN": "N/A"
+  },
+  {
+    "nameRU": "VE.N.TO.",
+    "nameEN": "VE.N.TO.",
+    "associationRU": "NEW_ERA_DRINKS",
+    "associationEN": "NEW_ERA_DRINKS",
+    "typeRU": "ALL_DAY",
+    "typeEN": "ALL_DAY",
+    "ingredients": [
+      {
+        "size": "45",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "White Smooth Grappa",
+        "nameEN": "White Smooth Grappa"
+      },
+      {
+        "size": "22,5",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Fresh Lemon Juice",
+        "nameEN": "Fresh Lemon Juice"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Honey Mix (replace water with chamomile)*",
+        "nameEN": "Honey Mix (replace water with chamomile)*"
+      },
+      {
+        "size": "15",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Chamomile Cordial",
+        "nameEN": "Chamomile Cordial"
+      },
+      {
+        "size": "30",
+        "typeRU": "ml",
+        "typeEN": "ml",
+        "nameRU": "Egg White (Optional)",
+        "nameEN": "Egg White (Optional)"
+      }
+    ],
+    "methodRU": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled small tumbler glass filled with ice.",
+    "methodEN": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled small tumbler glass filled with ice.",
+    "noteRU": "*If desired water can be replaced by chamomile infusion in the honey mix.",
+    "noteEN": "*If desired water can be replaced by chamomile infusion in the honey mix.",
+    "garnishRU": "Garnish with lemon zest and white grapes.",
+    "garnishEN": "Garnish with lemon zest and white grapes."
+  }
+]
