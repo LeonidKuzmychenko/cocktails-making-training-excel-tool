@@ -3,15 +3,16 @@ package cocktail.service;
 import cocktail.dto.finish.CocktailFinish;
 import cocktail.dto.middle.CocktailMiddle;
 import cocktail.dto.start.CocktailStart;
+import cocktail.help.LineTypeValue;
 import cocktail.types.LineType;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import lk.utils.files.FileManager;
 import utils.SheetService;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.Consumer;
 import java.util.stream.Collectors;
 
 public class CocktailService {
@@ -29,13 +30,25 @@ public class CocktailService {
     }
 
     private List<CocktailStart> getCocktailsStart(List<String> allStrings) {
-        allStrings = allStrings.stream().filter(s -> s.length() != 0).collect(Collectors.toList());
+        List<LineTypeValue> lineTypeValues = getLineTypeValues(allStrings);
+        return getCocktailStart(lineTypeValues);
+    }
 
+    private List<CocktailStart> getCocktailStart(List<LineTypeValue> lines){
         List<CocktailStart> cocktails = new ArrayList<>();
-        LineType lineType = LineType.NONE;
         CocktailStart cocktail = null;
+        for (LineTypeValue item : lines) {
+            cocktail = setData(cocktail, item.getValue(), item.getLineType());
+            if (item.getLineType() == LineType.Украшение)
+                cocktails.add(cocktail);
+        }
+        return cocktails;
+    }
 
-        for (String text : allStrings) {
+    private List<LineTypeValue> getLineTypeValues(List<String> allStrings){
+        LineType lineType = LineType.NONE;
+        List<LineTypeValue> lines = new ArrayList<>();
+        for (String text : allStrings)
             switch (text) {
                 case "Название":
                     lineType = LineType.Название;
@@ -58,16 +71,9 @@ public class CocktailService {
                 case "Украшение":
                     lineType = LineType.Украшение;
                     break;
-                default: {
-                    cocktail = setData(cocktail, text, lineType);
-                    if (lineType == LineType.Украшение) {
-                        cocktails.add(cocktail);
-                    }
-                }
-
+                default: lines.add(new LineTypeValue(lineType, text));
             }
-        }
-        return cocktails;
+        return lines.stream().filter(LineTypeValue::filter).collect(Collectors.toList());
     }
 
     private CocktailStart setData(CocktailStart cocktail, String text, LineType lineType) {
@@ -100,9 +106,6 @@ public class CocktailService {
             case Украшение: {
                 cocktail.setGarnish(text);
                 break;
-            }
-            default: {
-                System.out.println("ERRRROOOOORRRR");
             }
         }
         return cocktail;
