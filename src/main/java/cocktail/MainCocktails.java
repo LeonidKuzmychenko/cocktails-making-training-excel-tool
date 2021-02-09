@@ -1,17 +1,18 @@
+package cocktail;
+
 import com.google.gson.GsonBuilder;
-import dto.finish.CocktailFinish;
-import dto.finish.IngredientFinish;
-import dto.start.Cocktail;
-import dto.start.CocktailDto;
-import dto.start.Ingredient;
-import excel.SheetService;
+import cocktail.dto.finish.CocktailFinish;
+import cocktail.dto.finish.IngredientFinish;
+import cocktail.dto.start.CocktailMidle;
+import cocktail.dto.start.CocktailStart;
+import cocktail.dto.start.Ingredient;
+import utils.SheetService;
+import lk.utils.files.FileManager;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
-import types.State;
+import cocktail.types.State;
 
-import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 import java.util.stream.Collectors;
@@ -20,9 +21,9 @@ public class MainCocktails {
 
     public static void main(String[] args) throws IOException {
         Sheet sheet = new SheetService().get("./src/main/resources/cocktails.xlsx", 0);
-        List<CocktailDto> cocktailsDto = getCocktailsDto(sheet);
-        List<Cocktail> cocktails = transform(cocktailsDto);
-        List<CocktailFinish> cocktailsFinish = cocktails.stream().map(it->{
+        List<CocktailStart> cocktailsDto = getCocktailsDto(sheet);
+        List<CocktailMidle> cocktailMidles = transform(cocktailsDto);
+        List<CocktailFinish> cocktailsFinish = cocktailMidles.stream().map(it->{
             CocktailFinish cocktailFinish = new CocktailFinish();
             cocktailFinish.setNameRU(it.getName());
             cocktailFinish.setNameEN(it.getName());
@@ -53,17 +54,13 @@ public class MainCocktails {
         }).collect(Collectors.toList());
 
         String json = new GsonBuilder().setPrettyPrinting().create().toJson(cocktailsFinish);
-        File file = new File("./src/main/resources/cocktails.json");
-        FileWriter fileWriter = new FileWriter(file);
-        fileWriter.write(json);
-        fileWriter.flush();
-        fileWriter.close();
+        new FileManager().writeString("./src/main/resources/cocktails.json", json);
     }
 
-    public static List<CocktailDto> getCocktailsDto(Sheet sheet) {
-        List<CocktailDto> cocktails = new ArrayList<>();
+    public static List<CocktailStart> getCocktailsDto(Sheet sheet) {
+        List<CocktailStart> cocktails = new ArrayList<>();
         State state = State.NONE;
-        CocktailDto cocktail = null;
+        CocktailStart cocktail = null;
         for (Row row : sheet) {
             for (Cell cell : row) {
                 String text = cell.getStringCellValue();
@@ -103,10 +100,10 @@ public class MainCocktails {
         return cocktails;
     }
 
-    public static CocktailDto setData(CocktailDto cocktail, String text, State state) {
+    public static CocktailStart setData(CocktailStart cocktail, String text, State state) {
         switch (state) {
             case Название: {
-                cocktail = new CocktailDto();
+                cocktail = new CocktailStart();
                 cocktail.setName(text);
                 break;
             }
@@ -141,7 +138,7 @@ public class MainCocktails {
         return cocktail;
     }
 
-    public static List<Cocktail> transform(List<CocktailDto> cocktails) {
+    public static List<CocktailMidle> transform(List<CocktailStart> cocktails) {
         return cocktails.stream().map(it -> {
             List<String> oldIngredients = it.getIngredients();
             List<Ingredient> newIngredients = new ArrayList<>();
@@ -158,15 +155,15 @@ public class MainCocktails {
                 }
             }
 
-            Cocktail cocktail1 = new Cocktail();
-            cocktail1.setName(it.getName());
-            cocktail1.setAssociation(it.getAssociation());
-            cocktail1.setType(it.getType());
-            cocktail1.setIngredients(newIngredients);
-            cocktail1.setMethod(it.getMethod());
-            cocktail1.setNote(it.getNote());
-            cocktail1.setGarnish(it.getGarnish());
-            return cocktail1;
+            CocktailMidle cocktailMidle1 = new CocktailMidle();
+            cocktailMidle1.setName(it.getName());
+            cocktailMidle1.setAssociation(it.getAssociation());
+            cocktailMidle1.setType(it.getType());
+            cocktailMidle1.setIngredients(newIngredients);
+            cocktailMidle1.setMethod(it.getMethod());
+            cocktailMidle1.setNote(it.getNote());
+            cocktailMidle1.setGarnish(it.getGarnish());
+            return cocktailMidle1;
         }).collect(Collectors.toList());
     }
 }

@@ -1,4 +1,4 @@
-package dto.start;
+package cocktail.dto.start;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -8,7 +8,7 @@ import java.util.List;
 
 @Data
 @NoArgsConstructor
-public class CocktailDto {
+public class CocktailStart {
 
     private String name;
     private String association;

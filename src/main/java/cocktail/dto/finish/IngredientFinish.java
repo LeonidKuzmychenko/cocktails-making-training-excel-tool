@@ -1,4 +1,4 @@
-package dto.finish;
+package cocktail.dto.finish;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

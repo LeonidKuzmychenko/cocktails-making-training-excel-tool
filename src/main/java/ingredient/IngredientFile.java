@@ -1,4 +1,4 @@
-package dto.finish.file;
+package ingredient;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

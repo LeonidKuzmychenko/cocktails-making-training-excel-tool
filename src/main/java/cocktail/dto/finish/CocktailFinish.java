@@ -1,4 +1,4 @@
-package dto.finish;
+package cocktail.dto.finish;
 
 import com.google.gson.annotations.SerializedName;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package dto.start;
+package cocktail.dto.start;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
