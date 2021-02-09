@@ -1,0 +1,606 @@
+[
+  {
+    "nameRU": "Абсент",
+    "nameEN": "Absinthe"
+  },
+  {
+    "nameRU": "Нектар агавы",
+    "nameEN": "Agave Nectar"
+  },
+  {
+    "nameRU": "Агава Текила",
+    "nameEN": "Agave Tequila"
+  },
+  {
+    "nameRU": "Выдержанный ром",
+    "nameEN": "Aged Rum"
+  },
+  {
+    "nameRU": "Амаретто",
+    "nameEN": "Amaretto"
+  },
+  {
+    "nameRU": "Амаро Нонино",
+    "nameEN": "Amaro Nonino"
+  },
+  {
+    "nameRU": "Янтарный ямайский ром",
+    "nameEN": "Amber Jamaican Rum"
+  },
+  {
+    "nameRU": "Ангостура биттер",
+    "nameEN": "Angostura Bitter"
+  },
+  {
+    "nameRU": "Ангостура биттер (по желанию)",
+    "nameEN": "Angostura Bitter (optional)"
+  },
+  {
+    "nameRU": "Апероль",
+    "nameEN": "Aperol"
+  },
+  {
+    "nameRU": "Абрикосовый бренди",
+    "nameEN": "Apricot Brandy"
+  },
+  {
+    "nameRU": "Ароматические биттеры",
+    "nameEN": "Aromatic Bitters"
+  },
+  {
+    "nameRU": "Бенедиктинский",
+    "nameEN": "Bénédictine"
+  },
+  {
+    "nameRU": "Горький Кампари",
+    "nameEN": "Bitter Campari"
+  },
+  {
+    "nameRU": "Смешанный шотландский виски",
+    "nameEN": "Blended Scotch Whisky"
+  },
+  {
+    "nameRU": "Бурбон или ржаной виски",
+    "nameEN": "Bourbon or Rye Whiskey"
+  },
+  {
+    "nameRU": "Бурбонский виски",
+    "nameEN": "Bourbon Whiskey"
+  },
+  {
+    "nameRU": "бренди",
+    "nameEN": "Brandy"
+  },
+  {
+    "nameRU": "Брют Шампанское или Просекко",
+    "nameEN": "Brut Champagne or Prosecco"
+  },
+  {
+    "nameRU": "Cachaça",
+    "nameEN": "Cachaça"
+  },
+  {
+    "nameRU": "кальвадос",
+    "nameEN": "Calvados"
+  },
+  {
+    "nameRU": "Соль сельдерея (по желанию)",
+    "nameEN": "Celery Salt (optional)"
+  },
+  {
+    "nameRU": "Ромашка Кордиал",
+    "nameEN": "Chamomile Cordial"
+  },
+  {
+    "nameRU": "Шампанское",
+    "nameEN": "Champagne"
+  },
+  {
+    "nameRU": "Вишневый ликер",
+    "nameEN": "Cherry Liqueur"
+  },
+  {
+    "nameRU": "Охлажденное шампанское",
+    "nameEN": "Chilled Champagne"
+  },
+  {
+    "nameRU": "Кокосовый крем",
+    "nameEN": "Coconut Cream"
+  },
+  {
+    "nameRU": "Кофейный ликер",
+    "nameEN": "Coffee Liqueur"
+  },
+  {
+    "nameRU": "Коньяк",
+    "nameEN": "Cognac"
+  },
+  {
+    "nameRU": "Коньяк или бренди",
+    "nameEN": "Cognac or Brandy"
+  },
+  {
+    "nameRU": "Куантро",
+    "nameEN": "Cointreau"
+  },
+  {
+    "nameRU": "Кола",
+    "nameEN": "Cola"
+  },
+  {
+    "nameRU": "Клюквенный сок",
+    "nameEN": "Cranberry Juice"
+  },
+  {
+    "nameRU": "Крем",
+    "nameEN": "Cream"
+  },
+  {
+    "nameRU": "Crème de Cacao (коричневый)",
+    "nameEN": "Crème de Cacao (Brown)"
+  },
+  {
+    "nameRU": "Crème de Cacao (белый)",
+    "nameEN": "Crème de Cacao (White)"
+  },
+  {
+    "nameRU": "Crème de Cassis",
+    "nameEN": "Crème de Cassis"
+  },
+  {
+    "nameRU": "Crème de Menthe (зеленый)",
+    "nameEN": "Crème de Menthe (Green)"
+  },
+  {
+    "nameRU": "Crème de Mûre",
+    "nameEN": "Crème de Mûre"
+  },
+  {
+    "nameRU": "Крем де Виолетт",
+    "nameEN": "Crème de Violette"
+  },
+  {
+    "nameRU": "Кубинский Агуардиенте",
+    "nameEN": "Cuban Aguardiente"
+  },
+  {
+    "nameRU": "Кюрасао",
+    "nameEN": "Curacao"
+  },
+  {
+    "nameRU": "Демерара Ром",
+    "nameEN": "Demerara Rum"
+  },
+  {
+    "nameRU": "ДОМ Бенедиктин",
+    "nameEN": "DOM Bénédictine"
+  },
+  {
+    "nameRU": "Микс Донна *",
+    "nameEN": "Donn’s Mix*"
+  },
+  {
+    "nameRU": "Драмбуи",
+    "nameEN": "Drambuie"
+  },
+  {
+    "nameRU": "Сухой джин",
+    "nameEN": "Dry Gin"
+  },
+  {
+    "nameRU": "Сухой Вермут",
+    "nameEN": "Dry Vermouth"
+  },
+  {
+    "nameRU": "Белое сухое вино",
+    "nameEN": "Dry White Wine"
+  },
+  {
+    "nameRU": "Яичный белок",
+    "nameEN": "Egg White"
+  },
+  {
+    "nameRU": "Яичный белок (по желанию)",
+    "nameEN": "Egg White (Optional)"
+  },
+  {
+    "nameRU": "Яичный желток",
+    "nameEN": "Egg Yolk"
+  },
+  {
+    "nameRU": "Кордиал из бузины",
+    "nameEN": "Elderflower Cordial"
+  },
+  {
+    "nameRU": "Эспадин Мескаль",
+    "nameEN": "Espadin Mezcal"
+  },
+  {
+    "nameRU": "Falernum",
+    "nameEN": "Falernum"
+  },
+  {
+    "nameRU": "Фернет Бранка",
+    "nameEN": "Fernet Branca"
+  },
+  {
+    "nameRU": "Свежий крем",
+    "nameEN": "Fresh Cream"
+  },
+  {
+    "nameRU": "Свежие сливки (охлажденные)",
+    "nameEN": "Fresh Cream (Chilled)"
+  },
+  {
+    "nameRU": "Свежий имбирь",
+    "nameEN": "Fresh Ginger"
+  },
+  {
+    "nameRU": "Свежий лимонный сок",
+    "nameEN": "Fresh Lemon Juice"
+  },
+  {
+    "nameRU": "Свежий лайм",
+    "nameEN": "Fresh Lime"
+  },
+  {
+    "nameRU": "Свежий сок лайма",
+    "nameEN": "Fresh Lime Juice"
+  },
+  {
+    "nameRU": "Свежий апельсиновый сок",
+    "nameEN": "Fresh Orange Juice"
+  },
+  {
+    "nameRU": "Свежий ананасовый сок",
+    "nameEN": "Fresh Pineapple Juice"
+  },
+  {
+    "nameRU": "Свежевыжатый сок лайма",
+    "nameEN": "Freshly Squeezed Lime Juice"
+  },
+  {
+    "nameRU": "Гальяно",
+    "nameEN": "Galliano"
+  },
+  {
+    "nameRU": "Джин",
+    "nameEN": "Gin"
+  },
+  {
+    "nameRU": "Имбирный эль",
+    "nameEN": "Ginger Ale"
+  },
+  {
+    "nameRU": "Имбирное пиво",
+    "nameEN": "Ginger Beer"
+  },
+  {
+    "nameRU": "Золотой пуэрториканский ром",
+    "nameEN": "Gold Puerto Rican Rum"
+  },
+  {
+    "nameRU": "Золотой ром",
+    "nameEN": "Gold Rum"
+  },
+  {
+    "nameRU": "Гусянный ром",
+    "nameEN": "Goslings Rum"
+  },
+  {
+    "nameRU": "Гранд Марнье (по желанию)",
+    "nameEN": "Grand Marnier (optional)"
+  },
+  {
+    "nameRU": "Грейпфрутовый сок",
+    "nameEN": "Grapefruit Juice"
+  },
+  {
+    "nameRU": "Зеленый Шартрез",
+    "nameEN": "Green Chartreuse"
+  },
+  {
+    "nameRU": "Гренадиновый сироп",
+    "nameEN": "Grenadine Syrup"
+  },
+  {
+    "nameRU": "Мед",
+    "nameEN": "Honey"
+  },
+  {
+    "nameRU": "Медовая смесь (замените воду ромашкой) *",
+    "nameEN": "Honey Mix (replace water with chamomile)*"
+  },
+  {
+    "nameRU": "Медовый сироп",
+    "nameEN": "Honey Syrup"
+  },
+  {
+    "nameRU": "Горячий кофе",
+    "nameEN": "Hot coffee"
+  },
+  {
+    "nameRU": "Ирландский виски",
+    "nameEN": "Irish Whiskey"
+  },
+  {
+    "nameRU": "Белый ром Ямайка",
+    "nameEN": "Jamaica Overproof White Rum"
+  },
+  {
+    "nameRU": "Ямайский темный ром",
+    "nameEN": "Jamaican dark rum"
+  },
+  {
+    "nameRU": "Ямайский ром",
+    "nameEN": "Jamaican Rum"
+  },
+  {
+    "nameRU": "Kahlúa",
+    "nameEN": "Kahlúa"
+  },
+  {
+    "nameRU": "Лагавулин 16л Виски",
+    "nameEN": "Lagavulin 16y Whisky"
+  },
+  {
+    "nameRU": "Lillet Blanc",
+    "nameEN": "Lillet Blanc"
+  },
+  {
+    "nameRU": "Лайм нарезать небольшими дольками",
+    "nameEN": "Lime cut into small wedges"
+  },
+  {
+    "nameRU": "Лондонский Драй Джин",
+    "nameEN": "London Dry Gin"
+  },
+  {
+    "nameRU": "Маращино",
+    "nameEN": "Maraschino"
+  },
+  {
+    "nameRU": "Ликер Мараскино",
+    "nameEN": "Maraschino Liqueur"
+  },
+  {
+    "nameRU": "Maraschino Luxardo",
+    "nameEN": "Maraschino Luxardo"
+  },
+  {
+    "nameRU": "Мартиника Меласса Ром *",
+    "nameEN": "Martinique Molasses Rhum*"
+  },
+  {
+    "nameRU": "Мескаль",
+    "nameEN": "Mezcal"
+  },
+  {
+    "nameRU": "Мята",
+    "nameEN": "Mint"
+  },
+  {
+    "nameRU": "Медовый сироп Monin",
+    "nameEN": "Monin Honey Syrup"
+  },
+  {
+    "nameRU": "Старый Том Джин",
+    "nameEN": "Old Tom Gin"
+  },
+  {
+    "nameRU": "Апельсиновый биттер",
+    "nameEN": "Orange Bitters"
+  },
+  {
+    "nameRU": "Апельсин Кюрасао",
+    "nameEN": "Orange Curacao"
+  },
+  {
+    "nameRU": "Оранжевый Цветок Вода",
+    "nameEN": "Orange Flower Water"
+  },
+  {
+    "nameRU": "Оржеат сироп",
+    "nameEN": "Orgeat Syrup"
+  },
+  {
+    "nameRU": "Orgeat Syrup (миндальный)",
+    "nameEN": "Orgeat Syrup (Almond)"
+  },
+  {
+    "nameRU": "Персиковый шнапс",
+    "nameEN": "Peach Schnapps"
+  },
+  {
+    "nameRU": "Перец (по желанию)",
+    "nameEN": "Pepper (optional)"
+  },
+  {
+    "nameRU": "Pernod",
+    "nameEN": "Pernod"
+  },
+  {
+    "nameRU": "Горькая настойка Пейшо",
+    "nameEN": "Peychaud's Bitters"
+  },
+  {
+    "nameRU": "Сода с розовым грейпфрутом",
+    "nameEN": "Pink Grapefruit Soda"
+  },
+  {
+    "nameRU": "Писко",
+    "nameEN": "Pisco"
+  },
+  {
+    "nameRU": "Чистая вода",
+    "nameEN": "Plain Water"
+  },
+  {
+    "nameRU": "Сахарная пудра",
+    "nameEN": "Powdered Sugar"
+  },
+  {
+    "nameRU": "Просекко",
+    "nameEN": "Prosecco"
+  },
+  {
+    "nameRU": "Малиновый ликер",
+    "nameEN": "Raspberry Liqueur"
+  },
+  {
+    "nameRU": "Малиновый сироп",
+    "nameEN": "Raspberry Syrup"
+  },
+  {
+    "nameRU": "Красный перец чили",
+    "nameEN": "Red Chili Pepper"
+  },
+  {
+    "nameRU": "Красный портвейн",
+    "nameEN": "Red Tawny Port Wine"
+  },
+  {
+    "nameRU": "Красное вино (Шираз или Мальбек)",
+    "nameEN": "Red wine (Shiraz or Malbech)"
+  },
+  {
+    "nameRU": "Ром",
+    "nameEN": "Rum"
+  },
+  {
+    "nameRU": "Ржаной виски",
+    "nameEN": "Rye Whiskey"
+  },
+  {
+    "nameRU": "Ржаной виски или бурбон",
+    "nameEN": "Rye Whiskey or Bourbon"
+  },
+  {
+    "nameRU": "Поваренная соль",
+    "nameEN": "Salt"
+  },
+  {
+    "nameRU": "Шотландский виски",
+    "nameEN": "Scotch Whisky"
+  },
+  {
+    "nameRU": "Простой сироп",
+    "nameEN": "Simple Syrup"
+  },
+  {
+    "nameRU": "Водка \"Smirnoff\"",
+    "nameEN": "Smirnoff Vodka"
+  },
+  {
+    "nameRU": "Содовая",
+    "nameEN": "Soda Water"
+  },
+  {
+    "nameRU": "Игристое вино",
+    "nameEN": "Sparkling wine"
+  },
+  {
+    "nameRU": "Крепкий эспрессо",
+    "nameEN": "Strong Espresso"
+  },
+  {
+    "nameRU": "Сахар",
+    "nameEN": "Sugar"
+  },
+  {
+    "nameRU": "Сок из сахарного тростника",
+    "nameEN": "Sugar Cane Juice"
+  },
+  {
+    "nameRU": "Кубик сахара",
+    "nameEN": "Sugar Cube"
+  },
+  {
+    "nameRU": "Сахарный сироп",
+    "nameEN": "Sugar Syrup"
+  },
+  {
+    "nameRU": "Сверхтонкий сахар",
+    "nameEN": "Superfine Sugar"
+  },
+  {
+    "nameRU": "Сладкий красный вермут",
+    "nameEN": "Sweet Red Vermouth"
+  },
+  {
+    "nameRU": "Сладкий вермут",
+    "nameEN": "Sweet Vermouth"
+  },
+  {
+    "nameRU": "Табаско",
+    "nameEN": "Tabasco"
+  },
+  {
+    "nameRU": "Текила",
+    "nameEN": "Tequila"
+  },
+  {
+    "nameRU": "Текила 100% агава",
+    "nameEN": "Tequila 100% Agave"
+  },
+  {
+    "nameRU": "Томатный сок",
+    "nameEN": "Tomato Juice"
+  },
+  {
+    "nameRU": "Трипл Сек",
+    "nameEN": "Triple Sec"
+  },
+  {
+    "nameRU": "Экстракт ванили",
+    "nameEN": "Vanilla Extract"
+  },
+  {
+    "nameRU": "Водка",
+    "nameEN": "Vodka"
+  },
+  {
+    "nameRU": "Водка Цитрон",
+    "nameEN": "Vodka Citron"
+  },
+  {
+    "nameRU": "Водка ваниль",
+    "nameEN": "Vodka Vanilla"
+  },
+  {
+    "nameRU": "Вода",
+    "nameEN": "Water"
+  },
+  {
+    "nameRU": "Белый тростниковый сахар",
+    "nameEN": "White Cane Sugar"
+  },
+  {
+    "nameRU": "Белый крем де менте",
+    "nameEN": "White Crème de Menthe"
+  },
+  {
+    "nameRU": "Белый кубинец Рон",
+    "nameEN": "White Cuban Ron"
+  },
+  {
+    "nameRU": "Пюре из белого персика",
+    "nameEN": "White Peach Puree"
+  },
+  {
+    "nameRU": "Белый ром",
+    "nameEN": "White Rum"
+  },
+  {
+    "nameRU": "Белая гладкая граппа",
+    "nameEN": "White Smooth Grappa"
+  },
+  {
+    "nameRU": "Вустерширский соус",
+    "nameEN": "Worcestershire Sauce"
+  },
+  {
+    "nameRU": "Желтый Шартрез",
+    "nameEN": "Yellow Chartreuse"
+  }
+]

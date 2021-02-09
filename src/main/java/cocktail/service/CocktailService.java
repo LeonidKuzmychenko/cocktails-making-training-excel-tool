@@ -19,8 +19,8 @@ public class CocktailService {
 
     private final Gson gson = new GsonBuilder().setPrettyPrinting().excludeFieldsWithoutExposeAnnotation().create();
 
-    public List<CocktailFinish> get() throws IOException {
-        List<String> addSheetStrings = new SheetService().getList("./src/main/resources/excel/cocktails.xlsx", 0);
+    public List<CocktailFinish> get(String path) throws IOException {
+        List<String> addSheetStrings = new SheetService().getList(path, 0);
         List<CocktailStart> cocktailsStart = getCocktailsStart(addSheetStrings);
         List<CocktailMiddle> cocktailsMiddle = transform(cocktailsStart);
         return cocktailsMiddle.stream()

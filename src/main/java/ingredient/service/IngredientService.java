@@ -9,8 +9,9 @@ import java.util.stream.Collectors;
 
 public class IngredientService {
 
-    public List<IngredientFinish> get() throws IOException {
-        List<String> excelIngredients = new SheetService().getList("./src/main/resources/excel/cocktails.xlsx", 4);
+    public List<IngredientFinish> get(String path) throws IOException {
+        List<String> excelIngredients = new SheetService().getList(path, 4);
+//        List<String> excelIngredients = new SheetService().getList("./src/main/resources/excel/cocktails.xlsx", 4);
         return excelIngredients.stream().map(it->new IngredientFinish(it,it)).collect(Collectors.toList());
     }
 }

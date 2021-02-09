@@ -7,6 +7,7 @@ import com.google.gson.GsonBuilder;
 import lk.utils.files.FileManager;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
@@ -14,10 +15,25 @@ public class Main {
     private static final Gson gson = new GsonBuilder().setPrettyPrinting().excludeFieldsWithoutExposeAnnotation().create();
 
     public static void main(String[] args) throws IOException {
-        CocktailService cocktailService = new CocktailService();
-        List<CocktailFinish> cocktailsFinish = cocktailService.get();
+        CocktailService cs = new CocktailService();
+        List<CocktailFinish> cocktailsFinishEN = cs.get("./src/main/resources/excel/en/cocktails.xlsx");
+        List<CocktailFinish> cocktailsFinishRU = cs.get("./src/main/resources/excel/ru/cocktails.xlsx");
+
+        List<CocktailFinish> cocktailsFinish = new ArrayList<>(cocktailsFinishEN);
+
+        for (int i = 0; i < cocktailsFinish.size(); i++) {
+            CocktailFinish finish = cocktailsFinish.get(i);
+            CocktailFinish ru = cocktailsFinishRU.get(i);
+            finish.setNameRU(ru.getNameRU());
+            finish.setAssociationRU(ru.getAssociationRU());
+            finish.setMethodRU(ru.getMethodRU());
+            finish.setNoteRU(ru.getNoteRU());
+            finish.setGarnishRU(ru.getGarnishRU());
+            finish.setTypeRU(ru.getTypeRU());
+        }
+
         String json = gson.toJson(cocktailsFinish);
-        new FileManager().writeString("./src/main/resources/cocktails.json", json);
+        new FileManager().writeString("./src/main/resources/db/cocktails.json", json);
     }
 
 }
