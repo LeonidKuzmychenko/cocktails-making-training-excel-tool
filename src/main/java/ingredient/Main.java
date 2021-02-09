@@ -3,6 +3,7 @@ package ingredient;
 import cocktail.dto.finish.IngredientFinish;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import ingredient.service.IngredientService;
 import utils.SheetService;
 import lk.utils.files.FileManager;
 import org.apache.poi.ss.usermodel.Cell;
@@ -18,8 +19,8 @@ public class Main {
     private static final Gson gson = new GsonBuilder().setPrettyPrinting().excludeFieldsWithoutExposeAnnotation().create();
 
     public static void main(String[] args) throws IOException {
-        List<String> excelIngredients = new SheetService().getList("./src/main/resources/cocktails.xlsx", 4);
-        List<IngredientFinish> ingredients = excelIngredients.stream().map(it->new IngredientFinish(it,it)).collect(Collectors.toList());
+        IngredientService ingredientService = new IngredientService();
+        List<IngredientFinish> ingredients = ingredientService.get();
         String json = gson.toJson(ingredients);
         new FileManager().writeString("./src/main/resources/ingredients.json", json);
     }
