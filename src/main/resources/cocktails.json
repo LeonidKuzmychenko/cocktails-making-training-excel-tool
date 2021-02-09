@@ -8,16 +8,10 @@
     "typeEN": "SPARKLING",
     "ingredients": [
       {
-        "size": "100",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Prosecco",
         "nameEN": "Prosecco"
       },
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "White Peach Puree",
         "nameEN": "White Peach Puree"
       }
@@ -38,16 +32,10 @@
     "typeEN": "AFTER_DINNER",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Vodka",
         "nameEN": "Vodka"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Coffee Liqueur",
         "nameEN": "Coffee Liqueur"
       }
@@ -68,51 +56,30 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Vodka",
         "nameEN": "Vodka"
       },
       {
-        "size": "90",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Tomato Juice",
         "nameEN": "Tomato Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "2",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Worcestershire Sauce",
         "nameEN": "Worcestershire Sauce"
       },
       {
-        "size": "1",
-        "typeRU": "NONE",
-        "typeEN": "NONE",
         "nameRU": "Tabasco",
         "nameEN": "Tabasco"
       },
       {
-        "size": "1",
-        "typeRU": "NONE",
-        "typeEN": "NONE",
         "nameRU": "Pepper (optional)",
         "nameEN": "Pepper (optional)"
       },
       {
-        "size": "1",
-        "typeRU": "NONE",
-        "typeEN": "NONE",
         "nameRU": "Celery Salt (optional)",
         "nameEN": "Celery Salt (optional)"
       }
@@ -133,23 +100,14 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cachaça",
         "nameEN": "Cachaça"
       },
       {
-        "size": "1",
-        "typeRU": "piece",
-        "typeEN": "piece",
         "nameRU": "Lime cut into small wedges",
         "nameEN": "Lime cut into small wedges"
       },
       {
-        "size": "4",
-        "typeRU": "teaspoon",
-        "typeEN": "teaspoon",
         "nameRU": "White Cane Sugar",
         "nameEN": "White Cane Sugar"
       }
@@ -170,37 +128,22 @@
     "typeEN": "SPARKLING",
     "ingredients": [
       {
-        "size": "90",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Chilled Champagne",
         "nameEN": "Chilled Champagne"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cognac",
         "nameEN": "Cognac"
       },
       {
-        "size": "2",
-        "typeRU": "dashe",
-        "typeEN": "dashe",
         "nameRU": "Angostura Bitter",
         "nameEN": "Angostura Bitter"
       },
       {
-        "size": "few",
-        "typeRU": "drop",
-        "typeEN": "drop",
         "nameRU": "Grand Marnier (optional)",
         "nameEN": "Grand Marnier (optional)"
       },
       {
-        "size": "1",
-        "typeRU": "piece",
-        "typeEN": "piece",
         "nameRU": "Sugar Cube",
         "nameEN": "Sugar Cube"
       }
@@ -221,30 +164,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "40",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Vodka Citron",
         "nameEN": "Vodka Citron"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cointreau",
         "nameEN": "Cointreau"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cranberry Juice",
         "nameEN": "Cranberry Juice"
       }
@@ -265,37 +196,22 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cointreau",
         "nameEN": "Cointreau"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Lillet Blanc",
         "nameEN": "Lillet Blanc"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "1",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Absinthe",
         "nameEN": "Absinthe"
       }
@@ -316,23 +232,14 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "White Rum",
         "nameEN": "White Rum"
       },
       {
-        "size": "120",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cola",
         "nameEN": "Cola"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       }
@@ -353,30 +260,18 @@
     "typeEN": "SPARKLING",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sugar Syrup",
         "nameEN": "Sugar Syrup"
       },
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Champagne",
         "nameEN": "Champagne"
       }
@@ -397,16 +292,10 @@
     "typeEN": "AFTER_DINNER",
     "ingredients": [
       {
-        "size": "35",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cognac",
         "nameEN": "Cognac"
       },
       {
-        "size": "35",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Amaretto",
         "nameEN": "Amaretto"
       }
@@ -427,30 +316,18 @@
     "typeEN": "AFTER_DINNER",
     "ingredients": [
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Galliano",
         "nameEN": "Galliano"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Triple Sec",
         "nameEN": "Triple Sec"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Orange Juice",
         "nameEN": "Fresh Orange Juice"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Cream",
         "nameEN": "Fresh Cream"
       }
@@ -471,23 +348,14 @@
     "typeEN": "AFTER_DINNER",
     "ingredients": [
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Crème de Cacao (White)",
         "nameEN": "Crème de Cacao (White)"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Crème de Menthe (Green)",
         "nameEN": "Crème de Menthe (Green)"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Cream",
         "nameEN": "Fresh Cream"
       }
@@ -508,30 +376,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Rum",
         "nameEN": "Rum"
       },
       {
-        "size": "40",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Grapefruit Juice",
         "nameEN": "Grapefruit Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Maraschino",
         "nameEN": "Maraschino"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime",
         "nameEN": "Fresh Lime"
       }
@@ -552,23 +408,14 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "40",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cognac",
         "nameEN": "Cognac"
       },
       {
-        "size": "120",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Ginger Ale",
         "nameEN": "Ginger Ale"
       },
       {
-        "size": "1",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Angostura Bitter (optional)",
         "nameEN": "Angostura Bitter (optional)"
       }
@@ -589,30 +436,18 @@
     "typeEN": "HOT_DRINK",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Irish Whiskey",
         "nameEN": "Irish Whiskey"
       },
       {
-        "size": "120",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Hot coffee",
         "nameEN": "Hot coffee"
       },
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Cream (Chilled)",
         "nameEN": "Fresh Cream (Chilled)"
       },
       {
-        "size": "1",
-        "typeRU": "teaspoon",
-        "typeEN": "teaspoon",
         "nameRU": "Sugar",
         "nameEN": "Sugar"
       }
@@ -633,16 +468,10 @@
     "typeEN": "BEFORE_DINNER",
     "ingredients": [
       {
-        "size": "90",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Dry White Wine",
         "nameEN": "Dry White Wine"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Crème de Cassis",
         "nameEN": "Crème de Cassis"
       }
@@ -663,58 +492,34 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Vodka",
         "nameEN": "Vodka"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Tequila",
         "nameEN": "Tequila"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "White Rum",
         "nameEN": "White Rum"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cointreau",
         "nameEN": "Cointreau"
       },
       {
-        "size": "25",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Simple Syrup",
         "nameEN": "Simple Syrup"
       },
       {
-        "size": "1",
-        "typeRU": "top_up",
-        "typeEN": "top_up",
         "nameRU": "Cola",
         "nameEN": "Cola"
       }
@@ -735,44 +540,26 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Amber Jamaican Rum",
         "nameEN": "Amber Jamaican Rum"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Martinique Molasses Rhum*",
         "nameEN": "Martinique Molasses Rhum*"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Orange Curacao",
         "nameEN": "Orange Curacao"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Orgeat Syrup (Almond)",
         "nameEN": "Orgeat Syrup (Almond)"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "7,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Simple Syrup",
         "nameEN": "Simple Syrup"
       }
@@ -793,23 +580,14 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Tequila 100% Agave",
         "nameEN": "Tequila 100% Agave"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Triple Sec",
         "nameEN": "Triple Sec"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Freshly Squeezed Lime Juice",
         "nameEN": "Freshly Squeezed Lime Juice"
       }
@@ -830,16 +608,10 @@
     "typeEN": "SPARKLING",
     "ingredients": [
       {
-        "size": "75",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Orange Juice",
         "nameEN": "Fresh Orange Juice"
       },
       {
-        "size": "75",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Prosecco",
         "nameEN": "Prosecco"
       }
@@ -860,30 +632,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Bourbon Whiskey",
         "nameEN": "Bourbon Whiskey"
       },
       {
-        "size": "4",
-        "typeRU": "sprigs",
-        "typeEN": "sprigs",
         "nameRU": "Mint",
         "nameEN": "Mint"
       },
       {
-        "size": "1",
-        "typeRU": "teaspoon",
-        "typeEN": "teaspoon",
         "nameRU": "Powdered Sugar",
         "nameEN": "Powdered Sugar"
       },
       {
-        "size": "2",
-        "typeRU": "teaspoon",
-        "typeEN": "teaspoon",
         "nameRU": "Water",
         "nameEN": "Water"
       }
@@ -904,37 +664,22 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "White Cuban Ron",
         "nameEN": "White Cuban Ron"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "6",
-        "typeRU": "sprigs",
-        "typeEN": "sprigs",
         "nameRU": "Mint",
         "nameEN": "Mint"
       },
       {
-        "size": "2",
-        "typeRU": "teaspoon",
-        "typeEN": "teaspoon",
         "nameRU": "White Cane Sugar",
         "nameEN": "White Cane Sugar"
       },
       {
-        "size": "1",
-        "typeRU": "top_up",
-        "typeEN": "top_up",
         "nameRU": "Soda Water",
         "nameEN": "Soda Water"
       }
@@ -955,23 +700,14 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Smirnoff Vodka",
         "nameEN": "Smirnoff Vodka"
       },
       {
-        "size": "120",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Ginger Beer",
         "nameEN": "Ginger Beer"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       }
@@ -992,23 +728,14 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "White Rum",
         "nameEN": "White Rum"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Coconut Cream",
         "nameEN": "Coconut Cream"
       },
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Pineapple Juice",
         "nameEN": "Fresh Pineapple Juice"
       }
@@ -1029,30 +756,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Pisco",
         "nameEN": "Pisco"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Simple Syrup",
         "nameEN": "Simple Syrup"
       },
       {
-        "size": "1",
-        "typeRU": "piece",
-        "typeEN": "piece",
         "nameRU": "Egg White",
         "nameEN": "Egg White"
       }
@@ -1073,23 +788,14 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "40",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Vodka",
         "nameEN": "Vodka"
       },
       {
-        "size": "120",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cranberry Juice",
         "nameEN": "Cranberry Juice"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Grapefruit Juice",
         "nameEN": "Grapefruit Juice"
       }
@@ -1110,30 +816,18 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "40",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Vodka",
         "nameEN": "Vodka"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Peach Schnapps",
         "nameEN": "Peach Schnapps"
       },
       {
-        "size": "40",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Orange Juice",
         "nameEN": "Fresh Orange Juice"
       },
       {
-        "size": "40",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cranberry Juice",
         "nameEN": "Cranberry Juice"
       }
@@ -1154,58 +848,34 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cherry Liqueur",
         "nameEN": "Cherry Liqueur"
       },
       {
-        "size": "7,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cointreau",
         "nameEN": "Cointreau"
       },
       {
-        "size": "7,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "DOM Bénédictine",
         "nameEN": "DOM Bénédictine"
       },
       {
-        "size": "120",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Pineapple Juice",
         "nameEN": "Fresh Pineapple Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Grenadine Syrup",
         "nameEN": "Grenadine Syrup"
       },
       {
-        "size": "1",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Angostura Bitter",
         "nameEN": "Angostura Bitter"
       }
@@ -1226,23 +896,14 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Tequila",
         "nameEN": "Tequila"
       },
       {
-        "size": "90",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Orange Juice",
         "nameEN": "Fresh Orange Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Grenadine Syrup",
         "nameEN": "Grenadine Syrup"
       }
@@ -1263,23 +924,14 @@
     "typeEN": "MARTINIS",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Vodka",
         "nameEN": "Vodka"
       },
       {
-        "size": "7,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Lillet Blanc",
         "nameEN": "Lillet Blanc"
       }
@@ -1300,65 +952,38 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Jamaican dark rum",
         "nameEN": "Jamaican dark rum"
       },
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gold Puerto Rican Rum",
         "nameEN": "Gold Puerto Rican Rum"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Demerara Rum",
         "nameEN": "Demerara Rum"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Falernum",
         "nameEN": "Falernum"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Donn’s Mix*",
         "nameEN": "Donn’s Mix*"
       },
       {
-        "size": "1",
-        "typeRU": "teaspoon",
-        "typeEN": "teaspoon",
         "nameRU": "Grenadine Syrup",
         "nameEN": "Grenadine Syrup"
       },
       {
-        "size": "1",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Angostura Bitter",
         "nameEN": "Angostura Bitter"
       },
       {
-        "size": "6",
-        "typeRU": "drop",
-        "typeEN": "drop",
         "nameRU": "Pernod",
         "nameEN": "Pernod"
       }
@@ -1379,23 +1004,14 @@
     "typeEN": "AFTER_DINNER",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cognac",
         "nameEN": "Cognac"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Crème de Cacao (Brown)",
         "nameEN": "Crème de Cacao (Brown)"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Cream",
         "nameEN": "Fresh Cream"
       }
@@ -1416,23 +1032,14 @@
     "typeEN": "BEFORE_DINNER",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Bitter Campari",
         "nameEN": "Bitter Campari"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sweet Red Vermouth",
         "nameEN": "Sweet Red Vermouth"
       },
       {
-        "size": "1",
-        "typeRU": "splash",
-        "typeEN": "splash",
         "nameRU": "Soda Water",
         "nameEN": "Soda Water"
       }
@@ -1453,23 +1060,14 @@
     "typeEN": "MARTINIS",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Apricot Brandy",
         "nameEN": "Apricot Brandy"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Calvados",
         "nameEN": "Calvados"
       }
@@ -1490,30 +1088,18 @@
     "typeEN": "MARTINIS",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Maraschino Liqueur",
         "nameEN": "Maraschino Liqueur"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "1",
-        "typeRU": "bar spoon",
-        "typeEN": "bar spoon",
         "nameRU": "Crème de Violette",
         "nameEN": "Crème de Violette"
       }
@@ -1534,30 +1120,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "White Rum",
         "nameEN": "White Rum"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cognac",
         "nameEN": "Cognac"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Triple Sec",
         "nameEN": "Triple Sec"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       }
@@ -1578,23 +1152,14 @@
     "typeEN": "BEFORE_DINNER",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Bourbon or Rye Whiskey",
         "nameEN": "Bourbon or Rye Whiskey"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Bitter Campari",
         "nameEN": "Bitter Campari"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sweet Red Vermouth",
         "nameEN": "Sweet Red Vermouth"
       }
@@ -1615,44 +1180,26 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "52,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Brandy",
         "nameEN": "Brandy"
       },
       {
-        "size": "7,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Maraschino Luxardo",
         "nameEN": "Maraschino Luxardo"
       },
       {
-        "size": "1",
-        "typeRU": "bar spoon",
-        "typeEN": "bar spoon",
         "nameRU": "Curacao",
         "nameEN": "Curacao"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "1",
-        "typeRU": "bar spoon",
-        "typeEN": "bar spoon",
         "nameRU": "Simple Syrup",
         "nameEN": "Simple Syrup"
       },
       {
-        "size": "2",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Aromatic Bitters",
         "nameEN": "Aromatic Bitters"
       }
@@ -1673,30 +1220,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "40",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Old Tom Gin",
         "nameEN": "Old Tom Gin"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Maraschino Liqueur",
         "nameEN": "Maraschino Liqueur"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "2",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Orange Bitters",
         "nameEN": "Orange Bitters"
       }
@@ -1717,30 +1252,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Raspberry Syrup",
         "nameEN": "Raspberry Syrup"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Egg White",
         "nameEN": "Egg White"
       }
@@ -1761,23 +1284,14 @@
     "typeEN": "BEFORE_DINNER",
     "ingredients": [
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "White Cuban Ron",
         "nameEN": "White Cuban Ron"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "2",
-        "typeRU": "bar spoon",
-        "typeEN": "bar spoon",
         "nameRU": "Superfine Sugar",
         "nameEN": "Superfine Sugar"
       }
@@ -1798,16 +1312,10 @@
     "typeEN": "MARTINIS",
     "ingredients": [
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Dry Vermouth",
         "nameEN": "Dry Vermouth"
       }
@@ -1828,30 +1336,18 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Simple Syrup",
         "nameEN": "Simple Syrup"
       },
       {
-        "size": "1",
-        "typeRU": "splash",
-        "typeEN": "splash",
         "nameRU": "Soda Water",
         "nameEN": "Soda Water"
       }
@@ -1872,23 +1368,14 @@
     "typeEN": "MARTINIS",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "London Dry Gin",
         "nameEN": "London Dry Gin"
       },
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sweet Red Vermouth",
         "nameEN": "Sweet Red Vermouth"
       },
       {
-        "size": "7,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fernet Branca",
         "nameEN": "Fernet Branca"
       }
@@ -1909,30 +1396,18 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Simple Syrup",
         "nameEN": "Simple Syrup"
       },
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Soda Water",
         "nameEN": "Soda Water"
       }
@@ -1953,30 +1428,18 @@
     "typeEN": "BEFORE_DINNER",
     "ingredients": [
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Green Chartreuse",
         "nameEN": "Green Chartreuse"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Maraschino Liqueur",
         "nameEN": "Maraschino Liqueur"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       }
@@ -1997,23 +1460,14 @@
     "typeEN": "BEFORE_DINNER",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Rye Whiskey",
         "nameEN": "Rye Whiskey"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sweet Red Vermouth",
         "nameEN": "Sweet Red Vermouth"
       },
       {
-        "size": "1",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Angostura Bitter",
         "nameEN": "Angostura Bitter"
       }
@@ -2034,30 +1488,18 @@
     "typeEN": "MARTINIS",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "London Dry Gin",
         "nameEN": "London Dry Gin"
       },
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sweet Red Vermouth",
         "nameEN": "Sweet Red Vermouth"
       },
       {
-        "size": "1",
-        "typeRU": "bar spoon",
-        "typeEN": "bar spoon",
         "nameRU": "Maraschino Liqueur",
         "nameEN": "Maraschino Liqueur"
       },
       {
-        "size": "2",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Orange Bitters",
         "nameEN": "Orange Bitters"
       }
@@ -2078,30 +1520,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "White Rum",
         "nameEN": "White Rum"
       },
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Pineapple Juice",
         "nameEN": "Fresh Pineapple Juice"
       },
       {
-        "size": "7,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Maraschino Liqueur",
         "nameEN": "Maraschino Liqueur"
       },
       {
-        "size": "5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Grenadine Syrup",
         "nameEN": "Grenadine Syrup"
       }
@@ -2122,30 +1552,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Dry Gin",
         "nameEN": "Dry Gin"
       },
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Orange Juice",
         "nameEN": "Fresh Orange Juice"
       },
       {
-        "size": "1",
-        "typeRU": "table spoon ",
-        "typeEN": "table spoon ",
         "nameRU": "Absinthe",
         "nameEN": "Absinthe"
       },
       {
-        "size": "1",
-        "typeRU": "table spoon ",
-        "typeEN": "table spoon ",
         "nameRU": "Grenadine Syrup",
         "nameEN": "Grenadine Syrup"
       }
@@ -2166,23 +1584,14 @@
     "typeEN": "BEFORE_DINNER",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Bitter Campari",
         "nameEN": "Bitter Campari"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sweet Red Vermouth",
         "nameEN": "Sweet Red Vermouth"
       }
@@ -2203,30 +1612,18 @@
     "typeEN": "BEFORE_DINNER",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Bourbon or Rye Whiskey",
         "nameEN": "Bourbon or Rye Whiskey"
       },
       {
-        "size": "1",
-        "typeRU": "piece",
-        "typeEN": "piece",
         "nameRU": "Sugar Cube",
         "nameEN": "Sugar Cube"
       },
       {
-        "size": "few",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Angostura Bitter",
         "nameEN": "Angostura Bitter"
       },
       {
-        "size": "few",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Plain Water",
         "nameEN": "Plain Water"
       }
@@ -2247,23 +1644,14 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Apricot Brandy",
         "nameEN": "Apricot Brandy"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Orange Juice",
         "nameEN": "Fresh Orange Juice"
       }
@@ -2284,23 +1672,14 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Jamaican Rum",
         "nameEN": "Jamaican Rum"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sugar Cane Juice",
         "nameEN": "Sugar Cane Juice"
       }
@@ -2321,23 +1700,14 @@
     "typeEN": "AFTER_DINNER",
     "ingredients": [
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Brandy",
         "nameEN": "Brandy"
       },
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Red Tawny Port Wine",
         "nameEN": "Red Tawny Port Wine"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Egg Yolk",
         "nameEN": "Egg Yolk"
       }
@@ -2358,65 +1728,38 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sugar Syrup",
         "nameEN": "Sugar Syrup"
       },
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cream",
         "nameEN": "Cream"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Egg White",
         "nameEN": "Egg White"
       },
       {
-        "size": "3",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Orange Flower Water",
         "nameEN": "Orange Flower Water"
       },
       {
-        "size": "2",
-        "typeRU": "drop",
-        "typeEN": "drop",
         "nameRU": "Vanilla Extract",
         "nameEN": "Vanilla Extract"
       },
       {
-        "size": "1",
-        "typeRU": "top_up",
-        "typeEN": "top_up",
         "nameRU": "Soda Water",
         "nameEN": "Soda Water"
       }
@@ -2437,16 +1780,10 @@
     "typeEN": "AFTER_DINNER",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Scotch Whisky",
         "nameEN": "Scotch Whisky"
       },
       {
-        "size": "25",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Drambuie",
         "nameEN": "Drambuie"
       }
@@ -2467,30 +1804,18 @@
     "typeEN": "AFTER_DINNER",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cognac",
         "nameEN": "Cognac"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Absinthe",
         "nameEN": "Absinthe"
       },
       {
-        "size": "1",
-        "typeRU": "piece",
-        "typeEN": "piece",
         "nameRU": "Sugar Cube",
         "nameEN": "Sugar Cube"
       },
       {
-        "size": "2",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Peychaud\u0027s Bitters",
         "nameEN": "Peychaud\u0027s Bitters"
       }
@@ -2511,23 +1836,14 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cognac",
         "nameEN": "Cognac"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Triple Sec",
         "nameEN": "Triple Sec"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       }
@@ -2548,16 +1864,10 @@
     "typeEN": "AFTER_DINNER",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cognac",
         "nameEN": "Cognac"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "White Crème de Menthe",
         "nameEN": "White Crème de Menthe"
       }
@@ -2578,37 +1888,22 @@
     "typeEN": "MARTINIS",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Old Tom Gin",
         "nameEN": "Old Tom Gin"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Dry Vermouth",
         "nameEN": "Dry Vermouth"
       },
       {
-        "size": "1/2",
-        "typeRU": "bar spoon",
-        "typeEN": "bar spoon",
         "nameRU": "Maraschino Liqueur",
         "nameEN": "Maraschino Liqueur"
       },
       {
-        "size": "1/4",
-        "typeRU": "bar spoon",
-        "typeEN": "bar spoon",
         "nameRU": "Absinthe",
         "nameEN": "Absinthe"
       },
       {
-        "size": "3",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Orange Bitters",
         "nameEN": "Orange Bitters"
       }
@@ -2629,37 +1924,22 @@
     "typeEN": "AFTER_DINNER",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Rye Whiskey",
         "nameEN": "Rye Whiskey"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cognac",
         "nameEN": "Cognac"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sweet Vermouth",
         "nameEN": "Sweet Vermouth"
       },
       {
-        "size": "1",
-        "typeRU": "bar spoon",
-        "typeEN": "bar spoon",
         "nameRU": "Bénédictine",
         "nameEN": "Bénédictine"
       },
       {
-        "size": "2",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Peychaud\u0027s Bitters",
         "nameEN": "Peychaud\u0027s Bitters"
       }
@@ -2680,30 +1960,18 @@
     "typeEN": "BEFORE_DINNER",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Bourbon Whiskey",
         "nameEN": "Bourbon Whiskey"
       },
       {
-        "size": "25",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sugar Syrup",
         "nameEN": "Sugar Syrup"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Egg White (Optional)",
         "nameEN": "Egg White (Optional)"
       }
@@ -2724,23 +1992,14 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "40",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Triple Sec",
         "nameEN": "Triple Sec"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       }
@@ -2761,37 +2020,22 @@
     "typeEN": "SPARKLING",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gold Rum",
         "nameEN": "Gold Rum"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Galliano",
         "nameEN": "Galliano"
       },
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Pineapple Juice",
         "nameEN": "Fresh Pineapple Juice"
       },
       {
-        "size": "1",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "1",
-        "typeRU": "top_up",
-        "typeEN": "top_up",
         "nameRU": "Prosecco",
         "nameEN": "Prosecco"
       }
@@ -2812,30 +2056,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "25",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "12,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sugar Syrup",
         "nameEN": "Sugar Syrup"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Crème de Mûre",
         "nameEN": "Crème de Mûre"
       }
@@ -2856,30 +2088,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "52,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Dry Gin",
         "nameEN": "Dry Gin"
       },
       {
-        "size": "2",
-        "typeRU": "teaspoon",
-        "typeEN": "teaspoon",
         "nameRU": "Honey Syrup",
         "nameEN": "Honey Syrup"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Orange Juice",
         "nameEN": "Fresh Orange Juice"
       }
@@ -2900,30 +2120,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cuban Aguardiente",
         "nameEN": "Cuban Aguardiente"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Honey",
         "nameEN": "Honey"
       },
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Water",
         "nameEN": "Water"
       }
@@ -2944,16 +2152,10 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Goslings Rum",
         "nameEN": "Goslings Rum"
       },
       {
-        "size": "100",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Ginger Beer",
         "nameEN": "Ginger Beer"
       }
@@ -2974,30 +2176,18 @@
     "typeEN": "AFTER_DINNER",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Vodka",
         "nameEN": "Vodka"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Kahlúa",
         "nameEN": "Kahlúa"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sugar Syrup",
         "nameEN": "Sugar Syrup"
       },
       {
-        "size": "1",
-        "typeRU": "piece",
-        "typeEN": "piece",
         "nameRU": "Strong Espresso",
         "nameEN": "Strong Espresso"
       }
@@ -3018,16 +2208,10 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fernet Branca",
         "nameEN": "Fernet Branca"
       },
       {
-        "size": "1",
-        "typeRU": "top_up",
-        "typeEN": "top_up",
         "nameRU": "Cola",
         "nameEN": "Cola"
       }
@@ -3048,23 +2232,14 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Vodka",
         "nameEN": "Vodka"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Raspberry Liqueur",
         "nameEN": "Raspberry Liqueur"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Pineapple Juice",
         "nameEN": "Fresh Pineapple Juice"
       }
@@ -3085,51 +2260,30 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Espadin Mezcal",
         "nameEN": "Espadin Mezcal"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Jamaica Overproof White Rum",
         "nameEN": "Jamaica Overproof White Rum"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Falernum",
         "nameEN": "Falernum"
       },
       {
-        "size": "1",
-        "typeRU": "bar spoon",
-        "typeEN": "bar spoon",
         "nameRU": "Maraschino Luxardo",
         "nameEN": "Maraschino Luxardo"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Simple Syrup",
         "nameEN": "Simple Syrup"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Egg White (Optional)",
         "nameEN": "Egg White (Optional)"
       }
@@ -3150,23 +2304,14 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Vodka Citron",
         "nameEN": "Vodka Citron"
       },
       {
-        "size": "20",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Triple Sec",
         "nameEN": "Triple Sec"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       }
@@ -3187,30 +2332,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Mezcal",
         "nameEN": "Mezcal"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Yellow Chartreuse",
         "nameEN": "Yellow Chartreuse"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Aperol",
         "nameEN": "Aperol"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       }
@@ -3231,37 +2364,22 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Rye Whiskey or Bourbon",
         "nameEN": "Rye Whiskey or Bourbon"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Simple Syrup",
         "nameEN": "Simple Syrup"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Egg White",
         "nameEN": "Egg White"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Red wine (Shiraz or Malbech)",
         "nameEN": "Red wine (Shiraz or Malbech)"
       }
@@ -3282,44 +2400,26 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "6/8",
-        "typeRU": "leaves",
-        "typeEN": "leaves",
         "nameRU": "Mint",
         "nameEN": "Mint"
       },
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Aged Rum",
         "nameEN": "Aged Rum"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Simple Syrup",
         "nameEN": "Simple Syrup"
       },
       {
-        "size": "2",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Angostura Bitter",
         "nameEN": "Angostura Bitter"
       },
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Brut Champagne or Prosecco",
         "nameEN": "Brut Champagne or Prosecco"
       }
@@ -3340,30 +2440,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Agave Tequila",
         "nameEN": "Agave Tequila"
       },
       {
-        "size": "5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime",
         "nameEN": "Fresh Lime"
       },
       {
-        "size": "1",
-        "typeRU": "pinch",
-        "typeEN": "pinch",
         "nameRU": "Salt",
         "nameEN": "Salt"
       },
       {
-        "size": "100",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Pink Grapefruit Soda",
         "nameEN": "Pink Grapefruit Soda"
       }
@@ -3384,30 +2472,18 @@
     "typeEN": "BEFORE_DINNER",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Bourbon Whiskey",
         "nameEN": "Bourbon Whiskey"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Amaro Nonino",
         "nameEN": "Amaro Nonino"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Aperol",
         "nameEN": "Aperol"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       }
@@ -3428,37 +2504,22 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Blended Scotch Whisky",
         "nameEN": "Blended Scotch Whisky"
       },
       {
-        "size": "7,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Lagavulin 16y Whisky",
         "nameEN": "Lagavulin 16y Whisky"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Honey Syrup",
         "nameEN": "Honey Syrup"
       },
       {
-        "size": "2/4-3/4",
-        "typeRU": "slice",
-        "typeEN": "slice",
         "nameRU": "Fresh Ginger",
         "nameEN": "Fresh Ginger"
       }
@@ -3479,37 +2540,22 @@
     "typeEN": "SPARKLING",
     "ingredients": [
       {
-        "size": "25",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Vodka",
         "nameEN": "Vodka"
       },
       {
-        "size": "25",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Crème de Cassis",
         "nameEN": "Crème de Cassis"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sugar Syrup",
         "nameEN": "Sugar Syrup"
       },
       {
-        "size": "1",
-        "typeRU": "top_up",
-        "typeEN": "top_up",
         "nameRU": "Sparkling wine",
         "nameEN": "Sparkling wine"
       }
@@ -3530,37 +2576,22 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "London Dry Gin",
         "nameEN": "London Dry Gin"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Simple Syrup",
         "nameEN": "Simple Syrup"
       },
       {
-        "size": "5/6",
-        "typeRU": "leaves",
-        "typeEN": "leaves",
         "nameRU": "Mint",
         "nameEN": "Mint"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Egg White (Optional)",
         "nameEN": "Egg White (Optional)"
       }
@@ -3581,37 +2612,22 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Vodka Vanilla",
         "nameEN": "Vodka Vanilla"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Elderflower Cordial",
         "nameEN": "Elderflower Cordial"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "10",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Monin Honey Syrup",
         "nameEN": "Monin Honey Syrup"
       },
       {
-        "size": "2",
-        "typeRU": "slice",
-        "typeEN": "slice",
         "nameRU": "Red Chili Pepper",
         "nameEN": "Red Chili Pepper"
       }
@@ -3630,23 +2646,14 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "90",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Prosecco",
         "nameEN": "Prosecco"
       },
       {
-        "size": "60",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Aperol",
         "nameEN": "Aperol"
       },
       {
-        "size": "1",
-        "typeRU": "splash",
-        "typeEN": "splash",
         "nameRU": "Soda Water",
         "nameEN": "Soda Water"
       }
@@ -3667,37 +2674,22 @@
     "typeEN": "LONG_DRINK",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Cognac or Brandy",
         "nameEN": "Cognac or Brandy"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Gin",
         "nameEN": "Gin"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "2",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Angostura Bitter",
         "nameEN": "Angostura Bitter"
       },
       {
-        "size": "1",
-        "typeRU": "top_up",
-        "typeEN": "top_up",
         "nameRU": "Ginger Beer",
         "nameEN": "Ginger Beer"
       }
@@ -3718,30 +2710,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "50",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Irish Whiskey",
         "nameEN": "Irish Whiskey"
       },
       {
-        "size": "25",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Sweet Red Vermouth",
         "nameEN": "Sweet Red Vermouth"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Green Chartreuse",
         "nameEN": "Green Chartreuse"
       },
       {
-        "size": "2",
-        "typeRU": "dash",
-        "typeEN": "dash",
         "nameRU": "Angostura Bitter",
         "nameEN": "Angostura Bitter"
       }
@@ -3762,23 +2742,14 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Tequila 100% Agave",
         "nameEN": "Tequila 100% Agave"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       },
       {
-        "size": "2",
-        "typeRU": "bar spoon",
-        "typeEN": "bar spoon",
         "nameRU": "Agave Nectar",
         "nameEN": "Agave Nectar"
       }
@@ -3799,30 +2770,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Angostura Bitter",
         "nameEN": "Angostura Bitter"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Orgeat Syrup",
         "nameEN": "Orgeat Syrup"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Rye Whiskey",
         "nameEN": "Rye Whiskey"
       }
@@ -3843,30 +2802,18 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "White Rum",
         "nameEN": "White Rum"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Galliano",
         "nameEN": "Galliano"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Triple Sec",
         "nameEN": "Triple Sec"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lime Juice",
         "nameEN": "Fresh Lime Juice"
       }
@@ -3887,37 +2834,22 @@
     "typeEN": "ALL_DAY",
     "ingredients": [
       {
-        "size": "45",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "White Smooth Grappa",
         "nameEN": "White Smooth Grappa"
       },
       {
-        "size": "22,5",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Fresh Lemon Juice",
         "nameEN": "Fresh Lemon Juice"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Honey Mix (replace water with chamomile)*",
         "nameEN": "Honey Mix (replace water with chamomile)*"
       },
       {
-        "size": "15",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Chamomile Cordial",
         "nameEN": "Chamomile Cordial"
       },
       {
-        "size": "30",
-        "typeRU": "ml",
-        "typeEN": "ml",
         "nameRU": "Egg White (Optional)",
         "nameEN": "Egg White (Optional)"
       }

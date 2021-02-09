@@ -8,19 +8,15 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class IngredientFinish {
 
-    @Expose
     private Boolean optional;
-
-    @Expose
     private String size;
-
-    @Expose
     private String typeRU;
-
-    @Expose
     private String typeEN;
 
+    @Expose
     private String nameRU;
+
+    @Expose
     private String nameEN;
 
     public IngredientFinish(String nameRU, String nameEN) {

@@ -18,18 +18,9 @@ public class Main {
     private static final Gson gson = new GsonBuilder().setPrettyPrinting().excludeFieldsWithoutExposeAnnotation().create();
 
     public static void main(String[] args) throws IOException {
-        Sheet sheetIngredients = new SheetService().get("./src/main/resources/cocktails.xlsx", 4);
-        List<String> allIngredients = new ArrayList<>();
-        for (Row row : sheetIngredients) {
-            for (Cell cell : row) {
-                allIngredients.add(cell.getStringCellValue());
-            }
-        }
-
-        List<IngredientFinish> ingredientToJsons = allIngredients.stream().map(it->new IngredientFinish(it,it)).collect(Collectors.toList());
-        String json = gson.toJson(ingredientToJsons);
-        System.out.println(json);
-
+        List<String> excelIngredients = new SheetService().getList("./src/main/resources/cocktails.xlsx", 4);
+        List<IngredientFinish> ingredients = excelIngredients.stream().map(it->new IngredientFinish(it,it)).collect(Collectors.toList());
+        String json = gson.toJson(ingredients);
         new FileManager().writeString("./src/main/resources/ingredients.json", json);
     }
 

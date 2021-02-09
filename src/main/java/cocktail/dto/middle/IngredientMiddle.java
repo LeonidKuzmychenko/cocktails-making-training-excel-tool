@@ -1,11 +1,11 @@
-package cocktail.dto.midle;
+package cocktail.dto.middle;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
 @NoArgsConstructor
-public class IngredientMidle {
+public class IngredientMiddle {
 
     private String size;
     private String type;
