@@ -14,7 +14,7 @@ public class IngredientMiddle {
     private String note;
     private Boolean optional;
 
-    public IngredientFinish toFinish(){
+    public IngredientFinish toFinish() {
         IngredientFinish ingredientFinish = new IngredientFinish();
         ingredientFinish.setSize(this.size);
         ingredientFinish.setOptional(this.optional);

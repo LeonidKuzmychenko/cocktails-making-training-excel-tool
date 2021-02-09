@@ -24,7 +24,7 @@ public class CocktailStart {
         ingredients.add(ingredient);
     }
 
-    public CocktailMiddle toMiddle(){
+    public CocktailMiddle toMiddle() {
         List<IngredientMiddle> ingredientMiddles = new ArrayList<>();
         IngredientMiddle ingredientMiddle = null;
         for (int i = 1; i <= this.ingredients.size(); i++) {

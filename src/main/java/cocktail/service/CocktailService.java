@@ -12,7 +12,6 @@ import utils.SheetService;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Consumer;
 import java.util.stream.Collectors;
 
 public class CocktailService {
@@ -34,7 +33,7 @@ public class CocktailService {
         return getCocktailStart(lineTypeValues);
     }
 
-    private List<CocktailStart> getCocktailStart(List<LineTypeValue> lines){
+    private List<CocktailStart> getCocktailStart(List<LineTypeValue> lines) {
         List<CocktailStart> cocktails = new ArrayList<>();
         CocktailStart cocktail = null;
         for (LineTypeValue item : lines) {
@@ -45,7 +44,7 @@ public class CocktailService {
         return cocktails;
     }
 
-    private List<LineTypeValue> getLineTypeValues(List<String> allStrings){
+    private List<LineTypeValue> getLineTypeValues(List<String> allStrings) {
         LineType lineType = LineType.NONE;
         List<LineTypeValue> lines = new ArrayList<>();
         for (String text : allStrings)
@@ -71,7 +70,8 @@ public class CocktailService {
                 case "Украшение":
                     lineType = LineType.Украшение;
                     break;
-                default: lines.add(new LineTypeValue(lineType, text));
+                default:
+                    lines.add(new LineTypeValue(lineType, text));
             }
         return lines.stream().filter(LineTypeValue::filter).collect(Collectors.toList());
     }

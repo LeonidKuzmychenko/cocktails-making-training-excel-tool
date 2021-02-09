@@ -12,7 +12,7 @@ public class LineTypeValue {
     private LineType lineType;
     private String value;
 
-    public boolean filter(){
+    public boolean filter() {
         return lineType != LineType.NONE && lineType != null && value.trim().length() != 0;
     }
 }

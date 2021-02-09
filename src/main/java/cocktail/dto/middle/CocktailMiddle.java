@@ -21,7 +21,7 @@ public class CocktailMiddle {
     private String note;
     private String garnish;
 
-    public CocktailFinish toFinish(){
+    public CocktailFinish toFinish() {
         CocktailFinish cocktailFinish = new CocktailFinish();
         cocktailFinish.setNameRU(this.name);
         cocktailFinish.setNameEN(this.name);
