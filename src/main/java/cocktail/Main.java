@@ -16,8 +16,8 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         CocktailService cs = new CocktailService();
-        List<CocktailFinish> cocktailsFinishEN = cs.get("./src/main/resources/excel/en/cocktails.xlsx");
-        List<CocktailFinish> cocktailsFinishRU = cs.get("./src/main/resources/excel/ru/cocktails.xlsx");
+        List<CocktailFinish> cocktailsFinishEN = cs.get("./src/main/resources/excel/en/cocktailsEN.xlsx");
+        List<CocktailFinish> cocktailsFinishRU = cs.get("./src/main/resources/excel/ru/cocktailsRU.xlsx");
 
         List<CocktailFinish> cocktailsFinish = new ArrayList<>(cocktailsFinishEN);
 

@@ -8,7 +8,7 @@
     "nameEN": "Agave Nectar"
   },
   {
-    "nameRU": "Агава Текила",
+    "nameRU": "Текила Агава",
     "nameEN": "Agave Tequila"
   },
   {
@@ -20,7 +20,7 @@
     "nameEN": "Amaretto"
   },
   {
-    "nameRU": "Амаро Нонино",
+    "nameRU": "Ликер \"Amaro Nonino\"",
     "nameEN": "Amaro Nonino"
   },
   {
@@ -28,19 +28,19 @@
     "nameEN": "Amber Jamaican Rum"
   },
   {
-    "nameRU": "Ангостура биттер",
+    "nameRU": "Биттер \"Angostura\"",
     "nameEN": "Angostura Bitter"
   },
   {
-    "nameRU": "Ангостура биттер (по желанию)",
-    "nameEN": "Angostura Bitter (optional)"
+    "nameRU": "Биттер \"Angostura\" (По желанию)",
+    "nameEN": "Angostura Bitter (Optional)"
   },
   {
     "nameRU": "Апероль",
     "nameEN": "Aperol"
   },
   {
-    "nameRU": "Абрикосовый бренди",
+    "nameRU": "Абрикосовый Бренди",
     "nameEN": "Apricot Brandy"
   },
   {
@@ -48,47 +48,47 @@
     "nameEN": "Aromatic Bitters"
   },
   {
-    "nameRU": "Бенедиктинский",
+    "nameRU": "Ликер \"Benedictine\"",
     "nameEN": "Bénédictine"
   },
   {
-    "nameRU": "Горький Кампари",
+    "nameRU": "Биттер \"Campari\"",
     "nameEN": "Bitter Campari"
   },
   {
-    "nameRU": "Смешанный шотландский виски",
+    "nameRU": "Шотландский Купажированный Виски",
     "nameEN": "Blended Scotch Whisky"
   },
   {
-    "nameRU": "Бурбон или ржаной виски",
+    "nameRU": "Бурбон или Ржаной Виски",
     "nameEN": "Bourbon or Rye Whiskey"
   },
   {
-    "nameRU": "Бурбонский виски",
+    "nameRU": "Бурбон",
     "nameEN": "Bourbon Whiskey"
   },
   {
-    "nameRU": "бренди",
+    "nameRU": "Бренди",
     "nameEN": "Brandy"
   },
   {
-    "nameRU": "Брют Шампанское или Просекко",
+    "nameRU": "Шампанское Брют или Просекко",
     "nameEN": "Brut Champagne or Prosecco"
   },
   {
-    "nameRU": "Cachaça",
+    "nameRU": "Кашаса",
     "nameEN": "Cachaça"
   },
   {
-    "nameRU": "кальвадос",
+    "nameRU": "Кальвадос",
     "nameEN": "Calvados"
   },
   {
-    "nameRU": "Соль сельдерея (по желанию)",
-    "nameEN": "Celery Salt (optional)"
+    "nameRU": "Соль сельдерея (По желанию)",
+    "nameEN": "Celery Salt (Optional)"
   },
   {
-    "nameRU": "Ромашка Кордиал",
+    "nameRU": "Chamomile Cordial",
     "nameEN": "Chamomile Cordial"
   },
   {
@@ -100,7 +100,7 @@
     "nameEN": "Cherry Liqueur"
   },
   {
-    "nameRU": "Охлажденное шампанское",
+    "nameRU": "Охлажденное Шампанское",
     "nameEN": "Chilled Champagne"
   },
   {
@@ -116,7 +116,7 @@
     "nameEN": "Cognac"
   },
   {
-    "nameRU": "Коньяк или бренди",
+    "nameRU": "Коньяк или Бренди",
     "nameEN": "Cognac or Brandy"
   },
   {
@@ -168,16 +168,16 @@
     "nameEN": "Curacao"
   },
   {
-    "nameRU": "Демерара Ром",
+    "nameRU": "Ром \"Demerara\"",
     "nameEN": "Demerara Rum"
   },
   {
-    "nameRU": "ДОМ Бенедиктин",
+    "nameRU": "Ликер \"DOM Benedictine\"",
     "nameEN": "DOM Bénédictine"
   },
   {
-    "nameRU": "Микс Донна *",
-    "nameEN": "Donn’s Mix*"
+    "nameRU": "Сироп \"Donn’s Mix\" (По желанию)",
+    "nameEN": "Donn’s Mix (Optional)"
   },
   {
     "nameRU": "Драмбуи",
@@ -200,7 +200,7 @@
     "nameEN": "Egg White"
   },
   {
-    "nameRU": "Яичный белок (по желанию)",
+    "nameRU": "Яичный белок (По желанию)",
     "nameEN": "Egg White (Optional)"
   },
   {
@@ -208,11 +208,11 @@
     "nameEN": "Egg Yolk"
   },
   {
-    "nameRU": "Кордиал из бузины",
+    "nameRU": "Сироп \"Elderflower Cordial\"",
     "nameEN": "Elderflower Cordial"
   },
   {
-    "nameRU": "Эспадин Мескаль",
+    "nameRU": "Мескаль \"Espadin\"",
     "nameEN": "Espadin Mezcal"
   },
   {
@@ -288,8 +288,8 @@
     "nameEN": "Goslings Rum"
   },
   {
-    "nameRU": "Гранд Марнье (по желанию)",
-    "nameEN": "Grand Marnier (optional)"
+    "nameRU": "Гранд Марнье (По желанию)",
+    "nameEN": "Grand Marnier (Optional)"
   },
   {
     "nameRU": "Грейпфрутовый сок",
@@ -308,8 +308,8 @@
     "nameEN": "Honey"
   },
   {
-    "nameRU": "Медовая смесь (замените воду ромашкой) *",
-    "nameEN": "Honey Mix (replace water with chamomile)*"
+    "nameRU": "Медовая смесь",
+    "nameEN": "Honey Mix"
   },
   {
     "nameRU": "Медовый сироп",
@@ -348,7 +348,7 @@
     "nameEN": "Lillet Blanc"
   },
   {
-    "nameRU": "Лайм нарезать небольшими дольками",
+    "nameRU": "Лайм нарезанный небольшими дольками",
     "nameEN": "Lime cut into small wedges"
   },
   {
@@ -368,8 +368,8 @@
     "nameEN": "Maraschino Luxardo"
   },
   {
-    "nameRU": "Мартиника Меласса Ром *",
-    "nameEN": "Martinique Molasses Rhum*"
+    "nameRU": "Мартиникская патока ром (По желанию)",
+    "nameEN": "Martinique Molasses Rhum (Optional)"
   },
   {
     "nameRU": "Мескаль",
@@ -412,16 +412,16 @@
     "nameEN": "Peach Schnapps"
   },
   {
-    "nameRU": "Перец (по желанию)",
-    "nameEN": "Pepper (optional)"
+    "nameRU": "Перец (необязательно)",
+    "nameEN": "Pepper (Optional)"
   },
   {
     "nameRU": "Pernod",
     "nameEN": "Pernod"
   },
   {
-    "nameRU": "Горькая настойка Пейшо",
-    "nameEN": "Peychaud's Bitters"
+    "nameRU": "Горькие настойки Пейшо",
+    "nameEN": "Peychaud\u0027s Bitters"
   },
   {
     "nameRU": "Сода с розовым грейпфрутом",
@@ -488,7 +488,7 @@
     "nameEN": "Simple Syrup"
   },
   {
-    "nameRU": "Водка \"Smirnoff\"",
+    "nameRU": "Смирнофф Водка",
     "nameEN": "Smirnoff Vodka"
   },
   {
@@ -568,7 +568,7 @@
     "nameEN": "Vodka Vanilla"
   },
   {
-    "nameRU": "Вода",
+    "nameRU": "вода",
     "nameEN": "Water"
   },
   {
@@ -596,7 +596,7 @@
     "nameEN": "White Smooth Grappa"
   },
   {
-    "nameRU": "Вустерширский соус",
+    "nameRU": "Вустершир соус",
     "nameEN": "Worcestershire Sauce"
   },
   {
